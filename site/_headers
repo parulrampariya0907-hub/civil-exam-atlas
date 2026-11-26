@@ -1,0 +1,9 @@
+/assets/favicon.*
+  Cache-Control: public, max-age=86400
+/assets/social-preview.jpg
+  Cache-Control: public, max-age=86400
+/papers/*
+  Cache-Control: public, max-age=604800
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
