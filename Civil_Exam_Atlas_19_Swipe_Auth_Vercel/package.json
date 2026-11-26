@@ -1,1 +1,0 @@
-{"name":"civil-exam-atlas","version":"19.0.0","private":true,"scripts":{"build":"node scripts/build.mjs"},"engines":{"node":"22.x"}}
