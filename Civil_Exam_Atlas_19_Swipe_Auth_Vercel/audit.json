@@ -1,0 +1,36 @@
+{
+  "dhs": {
+    "topics": 52,
+    "pdf_sha256": "95a7e8099c29bbc61612588680e667fdf2e6303bfce255769375d08df43803f0",
+    "pdf_bytes": 646143,
+    "question_instances": 165,
+    "pdf_pages": 8
+  },
+  "cem": {
+    "topics": 79,
+    "pdf_sha256": "10df918789e2ee2a682f7af433f615bf3215b0be7f58bc0113c3a25f3f818033",
+    "pdf_bytes": 812122,
+    "question_instances": 172,
+    "pdf_pages": 9
+  },
+  "eeec": {
+    "topics": 76,
+    "pdf_sha256": "e6f91dd759ead7d325d01dcb7ea1c3580415c79273ee7f0e68aabfab629c1caa",
+    "pdf_bytes": 1128922,
+    "question_instances": 159,
+    "pdf_pages": 10
+  },
+  "phe": {
+    "topics": 65,
+    "pdf_sha256": "a37b13688738ef6494920338f5b5f358b76637a60d616f3cc734b07d8e48fc40",
+    "pdf_bytes": 807615,
+    "question_instances": 185,
+    "pdf_pages": 5
+  },
+  "tests": {
+    "topic_markup": "identical except PDF hrefs",
+    "browser_render": "Chromium set_content desktop 1440, mobile 390 and 360; all subjects, expansion, search, source dialogs pass; no horizontal overflow or JS errors",
+    "hosted_navigation": "not tested: environment blocked all browser URL navigation",
+    "metadata_build": "passed with test origin; test output excluded"
+  }
+}

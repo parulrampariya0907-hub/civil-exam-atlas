@@ -1,0 +1,62 @@
+{
+  "framework": null,
+  "buildCommand": "node scripts/build.mjs",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/content.js": {
+      "includeFiles": "site/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/atlas/index.html",
+      "destination": "/api/content?file=index.html"
+    },
+    {
+      "source": "/atlas/subjects/:file",
+      "destination": "/api/content?file=subjects/:file"
+    },
+    {
+      "source": "/atlas/papers/:file",
+      "destination": "/api/content?file=papers/:file"
+    },
+    {
+      "source": "/atlas/assets/:file",
+      "destination": "/assets/:file"
+    },
+    {
+      "source": "/subjects/:file",
+      "destination": "/api/content?file=subjects/:file"
+    },
+    {
+      "source": "/papers/:file",
+      "destination": "/api/content?file=papers/:file"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/atlas",
+      "destination": "/atlas/index.html",
+      "permanent": false
+    }
+  ]
+}
