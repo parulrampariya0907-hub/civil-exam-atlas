@@ -1,8 +1,11 @@
 {
   "framework": null,
-  "buildCommand": "node scripts/build.mjs",
+  "buildCommand": "node scripts/build.mjs https://civil-exam-atlas.vercel.app",
   "outputDirectory": "dist",
   "git": {
-    "deploymentEnabled": false
+    "deploymentEnabled": {
+      "*": false,
+      "main": true
+    }
   }
 }
