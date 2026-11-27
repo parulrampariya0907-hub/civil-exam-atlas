@@ -1,7 +1,5 @@
 {
   "git": {
-    "deploymentEnabled": {
-      "agent-skills-emil": false
-    }
+    "deploymentEnabled": false
   }
 }
