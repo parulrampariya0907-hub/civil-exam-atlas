@@ -1,5 +1,6 @@
 import {cpSync,rmSync,readFileSync,writeFileSync,existsSync} from 'node:fs';
 import {join} from 'node:path';
+import {inflateSync,deflateSync} from 'node:zlib';
 const raw=process.argv[2]||process.env.SITE_URL||process.env.URL;
 rmSync('dist',{recursive:true,force:true});cpSync('site','dist',{recursive:true});
 // Permanent creator credit on each public HTML page, before optional SEO processing.
@@ -15,6 +16,40 @@ for(const page of creditPages){
   html=html.replace(/<\/body\s*>/i, match=>credit+match);
   writeFileSync(file,html);
 }
+
+// Installable app and browser identity, derived from the uploaded 69 logo.
+const originalLogo=readFileSync(join('dist','assets','69.webp')).toString('base64');
+writeFileSync(join('dist','assets','69-icon.svg'),'<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><image width="64" height="64" href="data:image/webp;base64,'+originalLogo+'"/></svg>');
+const iconSource=inflateSync(Buffer.from('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','base64'));
+if(iconSource.length!==24+96*96)throw new Error('Invalid creator icon data');
+function pngChunk(type,data){
+  const content=Buffer.concat([Buffer.from(type),data]);let crc=0xffffffff;
+  for(const byte of content){crc^=byte;for(let i=0;i<8;i++)crc=(crc>>>1)^((crc&1)?0xedb88320:0);}
+  const head=Buffer.alloc(4),tail=Buffer.alloc(4);head.writeUInt32BE(data.length);tail.writeUInt32BE((crc^0xffffffff)>>>0);
+  return Buffer.concat([head,content,tail]);
+}
+function makeIcon(size){
+  const header=Buffer.alloc(13);header.writeUInt32BE(size,0);header.writeUInt32BE(size,4);header[8]=8;header[9]=2;
+  const rows=Buffer.alloc(size*(1+size*3));
+  const pixel=(x,y,c)=>iconSource[iconSource[24+y*96+x]*3+c];
+  for(let y=0;y<size;y++)for(let x=0;x<size;x++){
+    const u=x*95/(size-1),v=y*95/(size-1),x0=Math.floor(u),y0=Math.floor(v),x1=Math.min(x0+1,95),y1=Math.min(y0+1,95),a=u-x0,b=v-y0;
+    for(let c=0;c<3;c++)rows[y*(size*3+1)+1+x*3+c]=Math.round((1-b)*((1-a)*pixel(x0,y0,c)+a*pixel(x1,y0,c))+b*((1-a)*pixel(x0,y1,c)+a*pixel(x1,y1,c)));
+  }
+  return Buffer.concat([Buffer.from([137,80,78,71,13,10,26,10]),pngChunk('IHDR',header),pngChunk('IDAT',deflateSync(rows)),pngChunk('IEND',Buffer.alloc(0))]);
+}
+for(const size of [48,180,192,512])writeFileSync(join('dist','assets','69-'+size+'.png'),makeIcon(size));
+writeFileSync(join('dist','atlas.webmanifest'),JSON.stringify({id:'/',name:'Civil Exam Atlas',short_name:'Civil Atlas',description:'GTU Civil Engineering study atlas',start_url:'./',scope:'./',display:'standalone',background_color:'#eef1f6',theme_color:'#211a30',icons:[{src:'assets/69-192.png',sizes:'192x192',type:'image/png',purpose:'any'},{src:'assets/69-512.png',sizes:'512x512',type:'image/png',purpose:'any'}]},null,2));
+writeFileSync(join('dist','sw.js'),"self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));self.addEventListener('fetch',event=>{if(event.request.mode==='navigate')event.respondWith(fetch(event.request).catch(()=>new Response('Civil Exam Atlas requires an internet connection. Please reconnect and reload.',{status:503,headers:{'Content-Type':'text/plain; charset=utf-8'}})));});");
+for(const page of creditPages){
+  const file=join('dist',page);let html=readFileSync(file,'utf8');const prefix=page==='index.html'?'./':'../';
+  html=html.replace(/<link\b[^>]*\brel\s*=\s*["'](?:icon|alternate icon|shortcut icon|apple-touch-icon)["'][^>]*\/?>/gi,'');
+  const metadata='<link rel="icon" type="image/png" sizes="48x48" href="'+prefix+'assets/69-48.png"><link rel="icon" type="image/svg+xml" href="'+prefix+'assets/69-icon.svg"><link rel="apple-touch-icon" sizes="180x180" href="'+prefix+'assets/69-180.png"><link rel="manifest" href="'+prefix+'atlas.webmanifest"><meta name="theme-color" content="#211a30">';
+  html=html.replace(/<\/head\s*>/i,m=>metadata+m);
+  if(page==='index.html')html=html.replace(/<\/body\s*>/i,m=>'<script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));}</script>'+m);
+  writeFileSync(file,html);
+}
+
 if(!raw){console.log('No public URL: relative previews retained; set SITE_URL to generate sitemap and absolute social metadata.');process.exit(0);}
 const parsed=new URL(raw);if(!['https:','http:'].includes(parsed.protocol)||parsed.username||parsed.password||parsed.search||parsed.hash||parsed.pathname!=='/')throw new Error('SITE_URL must be a public origin, e.g. https://your-site.netlify.app');
 const origin=parsed.origin;
