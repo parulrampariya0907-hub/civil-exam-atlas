@@ -1,0 +1,56 @@
+/* Civil Exam Atlas | Apple-inspired, content-first material system */
+@media screen {
+html{background:#eff2f7!important}
+html body,body[data-theme="light"]{background:radial-gradient(ellipse at 0 0,#e2e9f5 0,transparent 52%),radial-gradient(ellipse at 100% 0,#e9e1f7 0,transparent 48%),#eff2f7!important;background-attachment:scroll!important;animation:none!important;color:#22283b}
+html[data-theme="dark"],html[data-theme="dark"] body,body[data-theme="dark"]{background:#151724!important;color:#edf0fa}
+#home{max-width:1000px;padding-top:clamp(48px,10vh,108px)}
+#home>small{color:#626478!important;font-weight:750;letter-spacing:.12em}
+#home h1{color:#211a30!important;letter-spacing:-.055em;font-size:clamp(40px,6.5vw,76px)}
+#home>p{color:#575d70!important;font-size:16px;line-height:1.6}
+#home .choices{gap:14px;margin-top:32px}
+#home .choices a{background:#ffffffde!important;border:1px solid #ffffff!important;color:#42465b!important;border-radius:24px;padding:18px;min-height:114px;box-shadow:0 1px 2px #211a300a,0 8px 26px #211a300b!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;transform:none;transition:transform 150ms cubic-bezier(.2,.8,.2,1);overflow-wrap:anywhere}
+#home .choices a em{color:#211a30!important;font-size:28px;letter-spacing:-.04em!important}
+#home .choices svg{box-shadow:none!important;border:0!important;border-radius:16px!important}
+#home .choices a:active{transform:scale(.98)!important}
+@media(hover:hover) and (pointer:fine){#home .choices a:hover{background:#fff!important;transform:translateY(-2px)}}
+html body>header:not(.top){background:#ffffffd9!important;border-bottom:0!important;box-shadow:0 4px 20px #211a300a!important;backdrop-filter:blur(18px) saturate(130%)!important;-webkit-backdrop-filter:blur(18px) saturate(130%)!important}
+html .top{background:#f9faffde!important;box-shadow:0 4px 18px #211a3009!important;border-bottom:0!important;backdrop-filter:blur(18px) saturate(130%)!important;-webkit-backdrop-filter:blur(18px) saturate(130%)!important}
+html .hero,html .controls,html .chapter-nav,html .result{background:#ffffffd9!important;border:1px solid #ffffff!important;box-shadow:0 1px 2px #211a3008,0 5px 20px #211a3008!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;border-radius:18px}
+html .hero{grid-template-columns:minmax(0,1fr);min-height:0;padding-block:8px}
+html .hero-copy{min-width:0}
+html .hero h1{color:#211a30!important;letter-spacing:-.035em}
+html .hero h1 em{color:#51436c!important}
+html .hero-sub{color:#596176!important;flex-wrap:wrap}
+html .chapter-nav{padding:8px;gap:6px}
+html .chapter-nav .chap-tab{border-radius:12px;min-height:44px;min-width:0;overflow-wrap:anywhere;background:#f3f4f9!important;border:1px solid #e5e6ef!important;color:#3d435a!important}
+html .chapter-nav .chap-tab[aria-current="true"],html .filter[aria-pressed="true"],html .order[aria-pressed="true"]{background:#211a30!important;color:#fff!important;border-color:#211a30!important}
+html .chapter-head{background:#211a30!important;color:#fff!important;border-radius:13px!important;box-shadow:none!important}
+html .chapter-head h2,html .chapter-head .ch-info,html .chapter-head .ch-count,html .chapter-head .ch-num{color:#fff!important}
+html .topic,html .topic:hover{background:#fff!important;border:1px solid #e3e5ed!important;box-shadow:0 1px 2px #211a3006,0 5px 18px #211a3007!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;border-radius:20px;transform:none!important;transition:none!important}
+html .topic>*{min-width:0;overflow-wrap:anywhere}
+html .topic h3{color:#211a30!important;letter-spacing:-.025em}
+html .topic .book-box{background:#eaf3ec!important;border:1px solid #ddeae0!important}
+html .topic section.exam{background:#eef3fa!important;border:1px solid #e2eaf4!important}
+html .topic section.prep{background:#f2f1f6!important;border:1px solid #e7e5ef!important}
+html .topic .book-box,html .topic section.exam,html .topic section.prep{box-shadow:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;border-radius:14px}
+html .topic .question p{line-height:1.6!important;font-weight:550!important}
+html .topic .qline{flex-wrap:wrap}
+html .topic .book-section-ref{color:#35304b!important}
+html .topic .question+.question{border-color:#dce1e9!important}
+html .source-details,html .source-link,html .session-links a,html .empty{background:#f8f9fc!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+html .tool,html .filter,html .order,html .chap-tab,html button,html summary,html .mobile-links a{touch-action:manipulation}
+html button:not(:disabled),html .chap-tab,html .tool{transition:transform 150ms cubic-bezier(.2,.8,.2,1)}
+html button:not(:disabled):active,html .chap-tab:active,html .tool:active{transform:scale(.98)}
+html a:focus-visible,html button:focus-visible,html input:focus-visible,html select:focus-visible,html summary:focus-visible{outline:3px solid #7562ad!important;outline-offset:3px}
+html[data-theme="dark"] .top,html[data-theme="dark"] .hero,html[data-theme="dark"] .controls,html[data-theme="dark"] .chapter-nav,html[data-theme="dark"] .result,html[data-theme="dark"] .topic{background:#232538!important;border-color:#3a3d53!important}
+html[data-theme="dark"] .hero h1,html[data-theme="dark"] .hero h1 em,html[data-theme="dark"] .topic h3,html[data-theme="dark"] .topic .book-section-ref,html[data-theme="dark"] .hero-sub{color:#e8e6f5!important}
+html[data-theme="dark"] .topic .book-box{background:#203b36!important;border-color:#34544a!important}
+html[data-theme="dark"] .topic section.exam{background:#24374d!important;border-color:#384e68!important}
+html[data-theme="dark"] .topic section.prep{background:#303044!important;border-color:#46465c!important}
+html[data-theme="dark"] .chapter-nav .chap-tab{background:#303248!important;border-color:#42465e!important;color:#e8e6f5!important}
+html[data-theme="dark"] .chapter-nav .chap-tab[aria-current="true"]{background:#68588f!important}
+html[data-theme="dark"] .source-details,html[data-theme="dark"] .source-link,html[data-theme="dark"] .session-links a,html[data-theme="dark"] .empty{background:#272a40!important}
+@media(max-width:680px){#home{padding:48px 18px 36px}#home .choices a{min-height:94px;padding:14px;border-radius:20px}#home .choices a em{font-size:25px}html .hero{padding-block:4px}html .topic{border-radius:16px}html .chapter-nav .chap-tab{min-height:44px}html input,html select{font-size:16px!important}html .top .tool,html .mobile-links a{min-height:44px}html .top-inner{padding-inline:max(10px,env(safe-area-inset-left)) max(10px,env(safe-area-inset-right))}}
+@media(prefers-reduced-motion:reduce){html #home .choices a,html button,html .tool,html .chap-tab{transition:none!important;transform:none!important}}
+@media(prefers-reduced-transparency:reduce){html body>header:not(.top),html .top{background:#fff!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}html[data-theme="dark"] .top{background:#232538!important}}
+}

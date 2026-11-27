@@ -55,7 +55,7 @@ for(const page of creditPages){
   const file=join('dist',page);let html=readFileSync(file,'utf8');const prefix=page==='index.html'?'./':'../';
   html=html.replace(/<link\b[^>]*\brel\s*=\s*["'](?:icon|alternate icon|shortcut icon|apple-touch-icon)["'][^>]*\/?>/gi,'');
   const metadata='<link rel="shortcut icon" type="image/x-icon" href="'+prefix+'favicon.ico?v=3"><link rel="icon" type="image/png" sizes="48x48" href="'+prefix+'assets/69-48.png?v=3"><link rel="apple-touch-icon" sizes="180x180" href="'+prefix+'assets/69-180.png"><link rel="manifest" href="'+prefix+'atlas.webmanifest"><meta name="theme-color" content="#211a30">';
-  html=html.replace(/<\/head\s*>/i,m=>metadata+m);
+  html=html.replace(/<\/head\s*>/i,m=>metadata+'<link rel="stylesheet" href="'+prefix+'assets/atlas-polish.css">'+m);
   if(page==='index.html')html=html.replace(/<\/body\s*>/i,m=>'<script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));}</script>'+m);
   writeFileSync(file,html);
 }
