@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-27",
+  "status": "predeployment; no deployment requested",
+  "method": "Read all source topic cards and question entries; verify direct-paper frequency, priority formula, displayed PDF page and link range, session ranges, and reference warnings. Original PDF bytes matched for DHS, EEEC, PHE from Library; available CEM alternate bundle differs in bytes but matches 9-page session layout. Full textbook and original video semantic verification and full browser test pending.",
+  "subjects": {
+    "cem": {
+      "topics": 79,
+      "questions": 172,
+      "direct": 135,
+      "related": 37,
+      "most": 22,
+      "pdfPages": 9,
+      "frequencyDisplaysClarified": 19,
+      "flaggedBookLocations": 3
+    },
+    "dhs": {
+      "topics": 52,
+      "questions": 165,
+      "direct": 129,
+      "related": 36,
+      "most": 24,
+      "pdfPages": 8,
+      "frequencyDisplaysClarified": 16,
+      "flaggedBookLocations": 2
+    },
+    "eeec": {
+      "topics": 76,
+      "questions": 159,
+      "direct": 149,
+      "related": 10,
+      "most": 28,
+      "pdfPages": 10,
+      "frequencyDisplaysClarified": 6,
+      "flaggedBookLocations": 1
+    },
+    "phe": {
+      "topics": 65,
+      "questions": 185,
+      "direct": 153,
+      "related": 32,
+      "most": 25,
+      "pdfPages": 5,
+      "frequencyDisplaysClarified": 14,
+      "flaggedBookLocations": 1
+    }
+  },
+  "checks": {
+    "directFrequency": "all 272 cards consistent with distinct direct-paper sessions",
+    "priority": "all 272 cards match rule: >=3 direct papers OR >=2 distinct papers with direct 7+ marks OR direct 14 marks",
+    "pdfLinks": "681 question entries have PDF page links, valid subject path and page ranges; link and visible page labels agree",
+    "bookReferences": "7 explicitly unconfirmed reading locations remain flagged; no fabricated replacement",
+    "originalAcademicData": "preserved; no topic question mapping or textbook references changed",
+    "branding": "original 69 logo and ICO/PNG favicon preserved; creator credit on every standalone build page",
+    "browser": "not run in this audit",
+    "deployment": "Vercel Git deployment disabled; manual deployment not initiated"
+  }
+}
