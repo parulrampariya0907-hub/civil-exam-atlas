@@ -39,12 +39,22 @@ function makeIcon(size){
   return Buffer.concat([Buffer.from([137,80,78,71,13,10,26,10]),pngChunk('IHDR',header),pngChunk('IDAT',deflateSync(rows)),pngChunk('IEND',Buffer.alloc(0))]);
 }
 for(const size of [48,180,192,512])writeFileSync(join('dist','assets','69-'+size+'.png'),makeIcon(size));
+const faviconPNG=makeIcon(32);
+const icoHeader=Buffer.alloc(22);
+icoHeader.writeUInt16LE(1,2);icoHeader.writeUInt16LE(1,4);
+icoHeader[6]=32;icoHeader[7]=32;icoHeader.writeUInt16LE(1,10);icoHeader.writeUInt16LE(24,12);
+icoHeader.writeUInt32LE(faviconPNG.length,14);icoHeader.writeUInt32LE(22,18);
+const faviconICO=Buffer.concat([icoHeader,faviconPNG]);
+writeFileSync(join('dist','favicon.ico'),faviconICO);
+writeFileSync(join('dist','assets','favicon.ico'),faviconICO);
+writeFileSync(join('dist','assets','favicon.png'),makeIcon(48));
+
 writeFileSync(join('dist','atlas.webmanifest'),JSON.stringify({id:'/',name:'Civil Exam Atlas',short_name:'Civil Atlas',description:'GTU Civil Engineering study atlas',start_url:'./',scope:'./',display:'standalone',background_color:'#eef1f6',theme_color:'#211a30',icons:[{src:'assets/69-192.png',sizes:'192x192',type:'image/png',purpose:'any'},{src:'assets/69-512.png',sizes:'512x512',type:'image/png',purpose:'any'}]},null,2));
 writeFileSync(join('dist','sw.js'),"self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));self.addEventListener('fetch',event=>{if(event.request.mode==='navigate')event.respondWith(fetch(event.request).catch(()=>new Response('Civil Exam Atlas requires an internet connection. Please reconnect and reload.',{status:503,headers:{'Content-Type':'text/plain; charset=utf-8'}})));});");
 for(const page of creditPages){
   const file=join('dist',page);let html=readFileSync(file,'utf8');const prefix=page==='index.html'?'./':'../';
   html=html.replace(/<link\b[^>]*\brel\s*=\s*["'](?:icon|alternate icon|shortcut icon|apple-touch-icon)["'][^>]*\/?>/gi,'');
-  const metadata='<link rel="icon" type="image/png" sizes="48x48" href="'+prefix+'assets/69-48.png"><link rel="icon" type="image/svg+xml" href="'+prefix+'assets/69-icon.svg"><link rel="apple-touch-icon" sizes="180x180" href="'+prefix+'assets/69-180.png"><link rel="manifest" href="'+prefix+'atlas.webmanifest"><meta name="theme-color" content="#211a30">';
+  const metadata='<link rel="shortcut icon" type="image/x-icon" href="'+prefix+'favicon.ico?v=3"><link rel="icon" type="image/png" sizes="48x48" href="'+prefix+'assets/69-48.png?v=3"><link rel="apple-touch-icon" sizes="180x180" href="'+prefix+'assets/69-180.png"><link rel="manifest" href="'+prefix+'atlas.webmanifest"><meta name="theme-color" content="#211a30">';
   html=html.replace(/<\/head\s*>/i,m=>metadata+m);
   if(page==='index.html')html=html.replace(/<\/body\s*>/i,m=>'<script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));}</script>'+m);
   writeFileSync(file,html);
