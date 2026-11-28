@@ -63,6 +63,11 @@ for(const page of creditPages){
 }
 
 for(const sub of ['cem','dhs','eeec','phe']){const file=join('dist','subjects',sub+'.html');const h=makeHistogram(readFileSync(file,'utf8'),sub);writeFileSync(file,h.html);console.log('Histogram '+sub+': '+h.rows+' rows, '+h.records+' records');}
+const adsenseTag="<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5797877435051977\" crossorigin=\"anonymous\"></script>";
+for(const page of creditPages){
+  const file=join('dist',page);const h=readFileSync(file,'utf8');
+  if(!h.includes('pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'))writeFileSync(file,h.replace(/<\/head\s*>/i,m=>adsenseTag+'\n'+m));
+}
 if(!raw){console.log('No public URL: relative previews retained; set SITE_URL to generate sitemap and absolute social metadata.');process.exit(0);}
 const parsed=new URL(raw);if(!['https:','http:'].includes(parsed.protocol)||parsed.username||parsed.password||parsed.search||parsed.hash||parsed.pathname!=='/')throw new Error('SITE_URL must be a public origin, e.g. https://your-site.netlify.app');
 const origin=parsed.origin;
