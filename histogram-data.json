@@ -1,0 +1,5829 @@
+{
+  "cem": [
+    {
+      "question": "Question 1A",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define project. Enlist phases of a construction project. Enlist functions of construction management.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the importance of construction management.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate planning vs. scheduling of project",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Prepare a Work Breakdown Structure for a primary school construction.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain benefit/cost ratio.",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 2,
+        "2": 2,
+        "3": 1
+      },
+      "coverage": {
+        "1": 2,
+        "2": 2,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 1B",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between activity and event.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the different phases of construction management.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Classify the phases of construction project.",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Draw a bar chart for a below-given project. Also determine total project duration.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give the suitability of derrick ,goliath and tower crane.",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 2,
+        "2": 2,
+        "7": 1
+      },
+      "coverage": {
+        "2": 2,
+        "1": 2,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 1C",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various responsibilities of an owner in a construction project.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a Work Break Down structure of GSRTC Bus Station.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Organize a work break down structure of construction of highway.",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw A-O-A network for the below-given project by CPM.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain how mile stone chart is an improvement over bar chart and how the network diagram is an improvement over the milestone chart, hence discuss the advantage of a network diagram.",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "1": 1
+      },
+      "coverage": {
+        "1": 1,
+        "2": 4
+      }
+    },
+    {
+      "question": "Question 2A",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist the various functions of material management and explain any two in detail.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss the sources of fund availability in construction project.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the different types of float and explain its uses for decision making.",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between wheeled mount tractor and crawler mount tractor.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist the factors to be considered to decide economic life of an equipment",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "7": 2,
+        "2": 1
+      },
+      "coverage": {
+        "3": 2,
+        "2": 1,
+        "7": 2
+      }
+    },
+    {
+      "question": "Question 2B",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the importance of construction equipment in the construction industry.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define the following 1) Activity 2) Dummy Activity 3) Event 4) parallel activity",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate CPM vs. PERT",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Draw a job layout for commercial complex building construction.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define the term work breakdown structure. Prepare a work breakdown for single storeyed residential building",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 1,
+        "7": 1
+      },
+      "coverage": {
+        "7": 1,
+        "2": 3,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 2C",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various rules for drawing a network.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss Bar chart technique with construction of compound wall example.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Critique “ Bar chart is not use for big and complex project",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define the terms: Earliest starting time, Latest starting time, Earliest finishing time, Latest finishing time, Optimistic time, Most likely time, and Pessimistic time.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Differentiate between activities and events. Project of Laying foundation consists of the following operations: excavation , laying of side boards and concreting of foundations. Draw a network consisting of activities and events to show the completion of the project",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 5
+      },
+      "coverage": {
+        "2": 5
+      }
+    },
+    {
+      "question": "Question 2C (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Which are the various alternatives for the purchase of equipment? Discuss direct purchase and hiring.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss Line of Balance, Mile stone chart and Compare with each other.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define : Crashing, Indirect cost, Normal time, S curve, Normal cost, Optimization, and Cost slope",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How to calculate the cycle time of a truck and truck production?",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define optimistic pessimistic and most likely time on a beta curve. Use the data of the following table to find the expected time for each activity. Verify the activity having most reliable time estimates",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "7": 2,
+        "5": 1
+      },
+      "coverage": {
+        "7": 2,
+        "2": 2,
+        "5": 1
+      }
+    },
+    {
+      "question": "Question 3A",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Prepare a work breakdown structure of a residential building showing task and work package levels.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the function of management as organizing, staffing",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the method used for resource allocation",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write advantages and disadvantages of line and staff organization.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist the various components of operating cost of a construction machinery",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "2": 1,
+        "4": 1,
+        "7": 1
+      },
+      "coverage": {
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 3B",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist the various limitations of bar charts and milestone charts.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Justify “inventory is a heart of material management.”",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Draw a Network of following activity and find out critical path",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between activity and event.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give safety measures for scaffolding and excavation",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 1,
+        "6": 1
+      },
+      "coverage": {
+        "2": 3,
+        "3": 1,
+        "6": 1
+      }
+    },
+    {
+      "question": "Question 3C",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain types of activities and types of events.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Develop a Job/ site layout for construction of Bridge.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a job layout for construction of Bridge",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a network for the below-given project by CPM. Also determine critical activities, critical path, and total project duration.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "A project consists of seven activities P, Q,,R, S,T, U, V of duration 10, 5,10,7,5 , 8 and 15 days . Draw a bar chart given the following: P and Q start simultaneously at time 0 independently, activity R starts only after Q is complete. S starts 3 days after P and Q start. Activity T starts only when S is complete. Activity U and R can start simultaneously when activity Q is complete. Activity V starts when P and S are complete, V marks the completion of the project. Draw the bar chart and find after how many days the project will be complete after starting at time zero.",
+          "href": "../papers/cem.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 2
+      },
+      "coverage": {
+        "2": 3,
+        "3": 2
+      }
+    },
+    {
+      "question": "Question 3A (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give complete information regarding mean, deviation, and variance.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between float and slack.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the procedure use for material management",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define with the equation : Mean, Deviation, and Standard deviation.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist various safety equipment for a mason working at construction site and the purpose they serve.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 1,
+        "6": 1
+      },
+      "coverage": {
+        "2": 3,
+        "3": 1,
+        "6": 1
+      }
+    },
+    {
+      "question": "Question 3B (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is the procedure for preparing a schedule with the help of the line of balance technique?",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Compare resource leveling vs. resource smoothening",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the project duration from following activity",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Represent a Node of a Precedence Network.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Draw a line diagram of back hoe trench excavator and state name of its parts",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "4": 1,
+        "7": 1
+      },
+      "coverage": {
+        "2": 3,
+        "4": 1,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 3C (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the ladder network with a suitable example.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss updating. Explain in detail procedure for updating.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How to judge the activity for crashing? Explain the procedure of crashing",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss various rules for network drawing.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "The table below gives the expected time of different activities and the. Draw the network. Find the expected time for each path and find the number of critical paths. Mark the dummy activity.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "5": 2
+      },
+      "coverage": {
+        "2": 3,
+        "5": 2
+      }
+    },
+    {
+      "question": "Question 4A",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Prepare a job layout for a commercial complex building.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the importance of crashing.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define the term 1) Fatal accident 2) Quality control 3) Quality Assurance",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Why is construction management required in Indian construction industry?",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain what is a winch and its utility.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "1": 1,
+        "3": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1
+      },
+      "coverage": {
+        "3": 1,
+        "5": 1,
+        "6": 1,
+        "1": 1,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 4B",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a short note on Economic Order Quantity (EOQ) model.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe the lean construction concept of project management",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist various BIM software with application in civil engineering",
+          "href": "../papers/cem.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "From a drawn cash flow diagram what information can you get?",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between CPM and PERT",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "5": 2,
+        "2": 1
+      },
+      "coverage": {
+        "3": 2,
+        "5": 2,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 4C",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain process of resource smoothening and resource-leveling.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "From the following network and find out activity E duration 5, project duration, critical path, Critical activity",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Differentiate CONQUAS Vs. Quality assessment system used in construction site in India.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the steps of cost optimization through the CPM network.",
+          "href": "../papers/cem.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the characteristics of lean construction methods over conventional construction.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "5": 2,
+        "2": 1,
+        "4": 1,
+        "6": 1
+      },
+      "coverage": {
+        "4": 1,
+        "2": 1,
+        "6": 1,
+        "5": 2
+      }
+    },
+    {
+      "question": "Question 4A (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain methods of updating the network of a project.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss the various types of precedence relationship with example.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Describe the ISO 450001.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is network updating? Why is it important for ongoing project?",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain giving examples activities in series and parallel",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "5": 2,
+        "6": 1
+      },
+      "coverage": {
+        "5": 2,
+        "2": 2,
+        "6": 1
+      }
+    },
+    {
+      "question": "Question 4B (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Which are the various uses of BIM software?",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the use of Building Information Modeling(BIM) in construction management.",
+          "href": "../papers/cem.pdf#page=7"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist the advantages of lean construction as a project management",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain economic order quantity in detail.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What do you understand by a “dummy activity”. Give two examples.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "5": 3,
+        "2": 1,
+        "3": 1
+      },
+      "coverage": {
+        "5": 3,
+        "3": 1,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 4C (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain why the time cost trade-off is necessary. Discuss the various ways to reduce the activity duration.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw the network from following three time estimate, find out total project duration.",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on Occupational Safety and Health Administration (OSHA).",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the step-by-step process of resource smoothening and resource levelling.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Prepare a breakdown of works and activities for construction an RCC highway and list the activities sequentially. Prepare the list of activities which can be performed in parallel.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "coverage": {
+        "5": 1,
+        "2": 2,
+        "6": 1,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 5A",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the advantages of statistical quality control?",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Identify the role of inspection in Quality control.",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist the different earthmoving equipment and Explain any one with sketch.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Prepare a list of various effects of accidents.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain redundancies with reference to a network.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "6": 3,
+        "2": 1,
+        "7": 1
+      },
+      "coverage": {
+        "6": 3,
+        "7": 1,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 5B",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the aims of TQM.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe the Construction Quality Assessment System (CONQUAS)",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Compare TBM vs. other tunnel construction equipment",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain various safety equipment used on construction site.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "How is critical path determined? Define float and different types of floats",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "6": 3,
+        "2": 1,
+        "7": 1
+      },
+      "coverage": {
+        "6": 3,
+        "7": 1,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 5C",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on the cost of accidents.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the causes; effects and preventive measure of accident occur on construction site.",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Differentiate between standard equipment and special equipment.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain principles of inspection for quality control.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the cube testing plan at the construction site. Discuss the statistics involved for acceptance and rejection of the construction.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "6": 4,
+        "7": 1
+      },
+      "coverage": {
+        "6": 4,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 5A (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Draw a line diagram of the dragline excavator.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss the factor affecting for owning and operating cost.",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Draw a line diagram of dragline excavator and states name of its parts.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a short note on Tunnel Boring Machines.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain why time cost trade is necessary",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "7": 4,
+        "5": 1
+      },
+      "coverage": {
+        "7": 4,
+        "5": 1
+      }
+    },
+    {
+      "question": "Question 5B (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between wheel-mount tractors and crawler-mount tractors.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the importance of ISO 45001 on construction site.",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate pile boring vs. Pile driving equipment",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between a Reciprocating pump and Centrifugal pump.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give the advantage of centrifugal pumps due to which it is commonly used at construction sites.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "7": 4,
+        "6": 1
+      },
+      "coverage": {
+        "7": 4,
+        "6": 1
+      }
+    },
+    {
+      "question": "Question 5C (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a neat sketch of the belt conveyor system and give the functions of the various components.",
+          "href": "../papers/cem.pdf#page=9"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the Tunnel Boring Machine with its use, function, advantages etc",
+          "href": "../papers/cem.pdf#page=8"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the different dewatering equipment.",
+          "href": "../papers/cem.pdf#page=6"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a neat sketch of truck mounted mobile crane and fixed mast tower crane with all components.",
+          "href": "../papers/cem.pdf#page=4"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a neat sketch of conveyor belt system and explain various components.",
+          "href": "../papers/cem.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "7": 5
+      },
+      "coverage": {
+        "7": 5
+      }
+    }
+  ],
+  "dhs": [
+    {
+      "question": "Question 1A",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is meant by a “dam and a reservoir”.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe various factors affecting selection of suitable type of a dam.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Draw the typical layout of a gravity dam showing its components.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the importance of subsurface exploration.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the main types of dams classified based on their structure and design?",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 4,
+        "3": 1
+      },
+      "coverage": {
+        "1": 4,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 1B",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "How the investigations for a dam site are done?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is phreatic line? Explain its importance in an embankment dam. Explain graphical method of obtaining the phreatic line in an earthen dam.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss various factors which govern the selection of type of dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the criteria for selection of particular type of dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between high gravity dam and low gravity dam.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 3,
+        "2": 1,
+        "3": 1
+      },
+      "coverage": {
+        "1": 3,
+        "2": 1,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 1C",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the main types of sub-surface explorations? Explain what is their importance in a project of a dam?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss various investigations required to be carried out to determine the most suitable site for a dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the effect of earthquake force in the design of gravity dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the role of site investigation and subsurface exploration in dam foundation treatment.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 3,
+        "3": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "1": 3,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 2A",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define spillway and enlist types of spillway",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe various seepage failures and structural failures of an earthen dam and their remedies.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Draw the uplift pressure diagram without drains and with drains for a gravity dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the functions of gallery in a gravity dam?",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is a cofferdam? how does it assist during dam construction?",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "1": 1,
+        "2": 1,
+        "4": 1
+      },
+      "coverage": {
+        "4": 1,
+        "2": 1,
+        "3": 2,
+        "1": 1
+      }
+    },
+    {
+      "question": "Question 2B",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the advantages of gated spillway over non-gated spillway?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the procedure of selection of a suitable section for an earthen dam as per the available material.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is gravity dam? Enumerate the various forces acting on a gravity dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss various foundation treatment methods.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe the typical failure modes of gravity dams and how design prevents them.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "1": 1,
+        "2": 1,
+        "4": 1
+      },
+      "coverage": {
+        "4": 1,
+        "2": 1,
+        "3": 2,
+        "1": 1
+      }
+    },
+    {
+      "question": "Question 2C",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Compute the discharge over an ogee shaped weir that’s co-efficient of discharge is equal to 2.5 at a head of 4 meter. The length of the spillway is 40 meter. The weir crest is 6 meter above the bottom of the approach channel which has the same width as that of the spillway.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Prove that the base width b for an elementary profile of a low gravity dam is given by b = ℎ∕√𝑠−1",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the practical profile of gravity dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the temperature control measures used to prevent cracking in mass concrete gravity dams.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 3,
+        "4": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "4": 1,
+        "3": 3
+      }
+    },
+    {
+      "question": "Question 2B (OR)",
+      "records": [
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How would you compute seepage force in the design of a gravity dam under various scenarios? Explain it.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        null,
+        null,
+        null
+      ],
+      "groups": {
+        "3": 1,
+        "NA": 4
+      },
+      "coverage": {
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 2C (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "A homogeneous earth dam is 43 meter high. The free-board provided is 3 meter. A 30 meter long horizontal filter is also provided on the downstream end. A flownet was drain for the dam section. The flownet comprised 5 flow channels and 15 potential drops. If the permeability of the material in the dam 3×10-5 meter/second. Calculate the seepage flow per meter length of the earth dam. If the dam is 500 meter long. Calculate the total discharge through the body of the dams.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss various Contraction joints and horizontal joints to be provided in a dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the construction techniques of roller compacted concrete dams.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various forces acting on a gravity dam and how they affect the dam's stability.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 3,
+        "2": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 1,
+        "3": 3
+      }
+    },
+    {
+      "question": "Question 3A",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the principles on which design of a gravity dam is based.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 14,
+          "text": "A section of gravity dam having 5.0 m top width and base width of 35m. The height of dam is 33m. It stores water up to height of 30m. Upstream face is vertical. Check the stability of dam against overturning and sliding with no drain available and no tension crack. Take friction factor = 0.7. Consider water pressure and uplift pressure only.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the various modes of failure of gravity dam? Discuss each of these briefly.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the functions of Water stops in gravity dam?",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Analyze how uplift pressure is distributed along the base of a gravity dam.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 5
+      },
+      "coverage": {
+        "3": 5
+      }
+    },
+    {
+      "question": "Question 3B",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between elementary and practical profile of a gravity dam.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss various purposes for which galleries are provided in dams.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a brief note on joints in gravity dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Evaluate the pros and cons of using roller-compacted concrete in gravity dam construction.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 4,
+        "NA": 1
+      },
+      "coverage": {
+        "3": 4
+      }
+    },
+    {
+      "question": "Question 3C",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on galleries in dam.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe with neat sketch how top seepage line is drawn in a homogeneous dam without any arrangement for drainage.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe hydraulic and seepage failure of earthen dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the method of determining stresses in the base of a gravity dam and their allowable limits.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "3": 2,
+        "NA": 1
+      },
+      "coverage": {
+        "3": 2,
+        "2": 2
+      }
+    },
+    {
+      "question": "Question 3A (OR)",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are construction and contraction joints in dams?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 14,
+          "text": "A homogeneous earth dam is 30m high and has a crest width of 5m. The upstream and downstream slopes are respectively 3:1(H:V)and 4:1(H:V). Compute seepage discharge through the dam and also compute ordinates of phreatic line and plot it graphically. Assume a free board of 3m and length of downstream horizontal filter as 30m. Take coefficient of permeability =1 x 10-6 m/s.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is a rockfill dam? Describe its salient features with a neat sketch .",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Obtain the condition for no-tension criteria in a gravity dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the design considerations of the impervious core in earth dams.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 2
+      },
+      "coverage": {
+        "3": 2,
+        "2": 3
+      }
+    },
+    {
+      "question": "Question 3B (OR)",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the causes of failure of a gravity dam?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe with neat sketches various methods adopted for controlling seepage through the body of the dam and through the foundation.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on settlement of rockfill dams.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe the construction sequence and compaction methods used in earth dam construction.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "3": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "3": 1,
+        "2": 3
+      }
+    },
+    {
+      "question": "Question 3C (OR)",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a brief note on the necessity and methods of foundation treatments of gravity dam.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the stability of foundation of an earth dam against horizontal shear stress.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the method used for analyzing stability of slope of an earthen dam.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the typical causes of failure in earth dams and suggest preventive measures.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "1": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "1": 1,
+        "2": 3
+      }
+    },
+    {
+      "question": "Question 4A",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the design principle for earthen dam in shortly.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the design features of chute spillway.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain the terms (i) turfing, (ii) pitching, (iii) relief wells",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a note on filters in earth dams.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss the benefits and limitations of using rock-fill dams in seismic zones.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "4": 1
+      },
+      "coverage": {
+        "2": 4,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 4B",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain significance of phreatic line in an earthen dam.",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How would you calculate stability of downstream slope of an earthen dam. Explain its procedure. What is the severest condition for a downstream slope?",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Describe briefly the different types of Spillways.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the slope protection in earth dams.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Assess the effectiveness of cutoff walls in controlling seepage under embankment dams.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "4": 1
+      },
+      "coverage": {
+        "2": 4,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 4C",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What precautions and remedial measures would you undertake to control the “seepage” through earthen dam body and through the dam foundation?",
+          "href": "../papers/dhs.pdf#page=7"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe with neat sketches the various types of upstream impervious membranes used for Rockfill dams.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the method of locating center of critical slip circle in earth dams.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Using flow net analysis, explain how seepage quantity is calculated through an embankment dam.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 4
+      }
+    },
+    {
+      "question": "Question 4A (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist types of earthen dams with their sketches .",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            1,
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on (1) Galleries in gravity dam (2) Foundation treatment in gravity dam.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain different types of drainage arrangements in the downstream portion of the earth dam.",
+          "href": "../papers/dhs.pdf#page=4"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give the comparison between ogee spillway and chute spillway.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Analyze the role of pore water pressure in slope stability of earth dams.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "1+3": 1,
+        "4": 1
+      },
+      "coverage": {
+        "2": 3,
+        "1": 1,
+        "3": 1,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 4B (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are rockfill dam and how it is more advantageous over earthen dam?",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is principal stress in a gravity dam? Derive expression of normal and shear stress in a gravity dam.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the various factors on which the value of the coefficient of discharge of an ogee spillway depends.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the cavitation in ogee spillway.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Analyze the influence of foundation soil properties on the behavior of earth dams.",
+          "href": "../papers/dhs.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "4": 2,
+        "3": 1
+      },
+      "coverage": {
+        "2": 2,
+        "3": 1,
+        "4": 2
+      }
+    },
+    {
+      "question": "Question 4C (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the various causes of failure of earthen dam? Draw sketches to illustrate the answers.",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        null,
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe with a neat sketch a chute spillway. Also discuss various design considerations of a chute spillway.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe design features of chute spillway.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Analyze the impact of spillway discharge on downstream erosion and suggest mitigation methods.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "4": 2,
+        "2": 1,
+        "5": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 1,
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "question": "Question 5A",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Why it is necessary to protect the stream bed below spillway?",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define stilling basin and its function. Describe design features of components of stilling basin.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write the functions of chute blocks and baffle blocks in stilling basins.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define energy dissipators. Discuss the needs to provide them.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Assess the role of aeration galleries in mitigating cavitation damage and improving spillway durability.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "5": 4,
+        "4": 1
+      },
+      "coverage": {
+        "5": 4,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 5B",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is stilling basin? And when it is used?",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is the necessity of energy dissipation work? Explain various types of energy dissipation works with figure.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the advantages as well as the limitations of a siphon spillway.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on side channel spillway.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Evaluate the advantages and disadvantages of gated spillways compared to ungated spillways.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "4": 3,
+        "5": 2
+      },
+      "coverage": {
+        "5": 2,
+        "4": 3
+      }
+    },
+    {
+      "question": "Question 5C",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the functional and technical difference between roller bucket and ski jump bucket with sketch .",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        null,
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Derive an equation for the water surface profile developed in a side channel spillway.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain design criteria of ogee spillway.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the energy dissipation by hydraulic jump in hydraulic structures.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "4": 2,
+        "5": 2,
+        "NA": 1
+      },
+      "coverage": {
+        "5": 2,
+        "4": 2
+      }
+    },
+    {
+      "question": "Question 5A (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is hydraulic jump?",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe Swedish circle method for stability of slope analysis of an embankment dam.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a note on Ski-jump bucket.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Briefly explain IS type I stilling basin.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain how tailwater depth variations influence the efficiency of energy dissipation.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "5": 4,
+        "2": 1
+      },
+      "coverage": {
+        "5": 4,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 5B (OR)",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is arch dam and when it is selected?",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain ogee spillway. What is cavitation in ogee spillway and what are the causes? Its remedial measures suggest.",
+          "href": "../papers/dhs.pdf#page=6"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on a location of hydraulic jump.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain various types of hydraulic jumps.",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Evaluate the effectiveness of different types of spillway gates in flood control operations.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "4": 2,
+        "5": 2,
+        "1": 1
+      },
+      "coverage": {
+        "1": 1,
+        "4": 2,
+        "5": 2
+      }
+    },
+    {
+      "question": "Question 5C (OR)",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "For a preliminary design of a concrete gravity dam below data is given: 1) Dam assumed to be of triangular section 2) Base width of dam is 40 meters and top width is zero meter. 3) Height of dam is 60 meters and no freeboard is provided 4) Horizontal earthquake acceleration of the foundation upstream is equal to 0.1g. 5) Specific gravity of concrete used in dam is 2.4 6) “Ce” co-efficient used for horizontal hydrodynamic pressure is 0.7 Calculate 1) Horizontal earthquake force due to inertia of dam material 2) Horizontal earthquake force due to inertia of the reservoir water",
+          "href": "../papers/dhs.pdf#page=8"
+        },
+        null,
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe with neat sketches the various types of bucket type energy dissipators.",
+          "href": "../papers/dhs.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe various energy dissipation devices used below spillway in relation to the position of jump height curve (JHC) and tail water rating curve (TWRC).",
+          "href": "../papers/dhs.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Design a stilling basin by assuming suitable data related to flow, velocity and tailwater conditions.",
+          "href": "../papers/dhs.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "5": 3,
+        "3": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "3": 1,
+        "5": 3
+      }
+    }
+  ],
+  "eeec": [
+    {
+      "question": "Question 1A",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give the purposes of detailed estimate.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "State units of measurement of following items : Random Rubble Masonry, Iron grill in windows, Skirting, , Brick bats, Boundary (wire) fencing, Brick Jalli-work.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the essential qualities of a good estimates?",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define provisional quantities, day work and contingencies",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "State and explain the purposes of estimating.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "3": 1
+      },
+      "coverage": {
+        "2": 4,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 1B",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on following. (1) Work charge establishment (2) Prime cost",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain types of detailed estimate.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on following. (1) Provisional sum (2) Contingencies",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define depreciation and explain its methods in brief.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on following. (1) Work charged establishment (2) Prime cost",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "9": 1
+      },
+      "coverage": {
+        "2": 4,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 1C",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Determine the following quantity of items of works by considering given drawing Figure -1 of a residential building. (1) Earthwork in excavation for foundation. (2) P.C.C (1:4:8) for foundation (3) IInd class Brick masonry in C.M (1:6) for foundation and Plinth.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Refer drawing – 1 and answer following: 1. Workout quantity of Excavation. 2. Workout quantity of Brickwork in foundation (up to ground level) 3. Foundation concrete",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Determine the following quantity of items of works by considering given drawing figure -1 of a residential building. (1) Providing and laying P.C.C (1:3:6) for foundation (2) Earthwork in excavation for foundation. (3) Brick Masonry work up to plinth level in C.M. (1:6).",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Estimate the quantities by centre line method of following items of building given in Fig.1 1) Earthwork in excavation and filling in foundation trench 2) Plain Cement Concrete in foundation 3) First class brick work in 1:6 cement mortar in foundation and plinth 4) Brickwork above plinth level",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Determine the following quantity of items of works by considering given drawing figure -1 of a residential building. (1) Earthwork in excavation for foundation. (2) Providing and laying P.C.C for foundation (1:4:8). (3) Brick Masonry work up to plinth level in C.M. (1:6).Consider height=0.15 m.Assume the width.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "4": 5
+      },
+      "coverage": {
+        "4": 5
+      }
+    },
+    {
+      "question": "Question 2A",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between technical efficiency and economic efficiency by giving examples.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain effect of inflation on cash flow.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain project cash flow diagram with factors affecting it.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss breakeven point.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define the term cash flow. Explain with sketch cash flow diagram",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 5
+      },
+      "coverage": {
+        "1": 5
+      }
+    },
+    {
+      "question": "Question 2B",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give rules of deductions in plastering and pointing work.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write short note on (i) Contingencies (ii) Work charged establishment",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enumerate and discuss various types of estimates.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give a brief idea of a) Marginal Cost, b) Sunk Cost",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give the types of estimates and explain any one in detail.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 3,
+        "1": 1,
+        "3": 1
+      },
+      "coverage": {
+        "3": 1,
+        "2": 3,
+        "1": 1
+      }
+    },
+    {
+      "question": "Question 2C",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define break-even point. Draw a break-even chart and explain its components.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define the Terms: Value, cost, price, monopoly value, potential value, accommodation value, distress value",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss evaluation of public projects",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the difference in evaluating alternatives of private and public organizations.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define break-even point. Draw a break-even chart and write break-even analysis assumptions.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 4,
+        "9": 1
+      },
+      "coverage": {
+        "1": 4,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 2B (OR)",
+      "records": [
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write short note on (i) Prime cost (ii) Day work (iii) Provisional quantities",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        null,
+        null,
+        null
+      ],
+      "groups": {
+        "2": 1,
+        "NA": 4
+      },
+      "coverage": {
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 2C (OR)",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write short note on: (i) Benefit-Cost Ratio (ii) Cash flow diagram",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        null,
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain Effect of Taxation on comparison of alternatives with Suitable Example",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "State the law of supply and demand. Draw supply – demand curve. Give brief idea about factors influencing demand and supply.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on time value of money.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 4,
+        "NA": 1
+      },
+      "coverage": {
+        "1": 4
+      }
+    },
+    {
+      "question": "Question 3A",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define specifications and give their importance.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain free hold property and lease hold property.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is the importance of specifications?",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write down the essential principle of good specification writing.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define Specifications and mention their objectives.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "6": 4,
+        "9": 1
+      },
+      "coverage": {
+        "6": 4,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 3B",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write detail specifications for Cement concrete in foundation (1:4:8).",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Distinguish between the terms: (1) Scrap value and salvage value (2) Book value and Market value",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write detail specifications for 1st class brickwork in CM (1:6).",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write down a detailed specification for external plaster work in 1:8 CM.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the essential principles of good specification writing?",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "6": 4,
+        "9": 1
+      },
+      "coverage": {
+        "6": 4,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 3C",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is meant by unbalanced tender? What are the purposes of filling an unbalanced tender? Explain , giving example of it.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write a short note on break even analysis.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define Tender and draft a typical tender notice for civil engineering works.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain following in brief: a) Earnest Money Deposit b) Liquidated Damage c) Security deposit",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Define Tender and give detailed classifications of tenders.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 4,
+        "1": 1
+      },
+      "coverage": {
+        "8": 4,
+        "1": 1
+      }
+    },
+    {
+      "question": "Question 3A (OR)",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between brief specifications and detailed specifications.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define the Terms: Obsolescence, Depreciation, Years purchase .",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the purposes of analysis of rates?",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Mention the factors affect the analysis of rates.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Describe the factors affecting rate analysis.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 3,
+        "6": 1,
+        "9": 1
+      },
+      "coverage": {
+        "6": 1,
+        "9": 1,
+        "7": 3
+      }
+    },
+    {
+      "question": "Question 3B (OR)",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the essential principles of good specification writing?",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is sinking fund ? How it calculated? Give its formula .",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the essential principles of writing good specifications.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write detailed specification for RCC work of floor slab having proportion of 1:1.5:3",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write detail specifications for cement concrete (1:4:8) for foundation.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "6": 4,
+        "9": 1
+      },
+      "coverage": {
+        "6": 4,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 3C (OR)",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the types of contracts. Describe them with its advantages and disadvantages .",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the concept of time value of money with suitable example.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write note on: Liquidated damages and unliquidated damages.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe in detail the process of a scrutiny of tender",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draft a tender notice for construction of Hospital, on behalf of R&B department, Government of Gujarat. The estimated cost of work is Rs. 10,32,58,000/-.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 4,
+        "1": 1
+      },
+      "coverage": {
+        "8": 4,
+        "1": 1
+      }
+    },
+    {
+      "question": "Question 4A",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define rate analysis. State factors affecting rate analysis.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is the importance of specifications in construction?",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What do you mean by Task or out-turn of work? How is it calculated?",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define rate analysis. Give a brief idea of SOR",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write short note on schedule of rates.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 4,
+        "6": 1
+      },
+      "coverage": {
+        "7": 4,
+        "6": 1
+      }
+    },
+    {
+      "question": "Question 4B",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for Cement concrete 1:4:8 in foundation for 10 m3.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What is Rate analysis. Explain factors affecting rate analysis of an item.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for 1st class brickwork in CM (1:6) for 10 m3.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Carry out the rate analysis of 12 mm thick wall plaster work in 1:3 C:M",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for Cement concrete (1:4:8) for foundation for 10 m3.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 5
+      },
+      "coverage": {
+        "7": 5
+      }
+    },
+    {
+      "question": "Question 4C",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the procedure of scrutiny of Tenders.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the calculation of materials required for single coat and Double coat Plastering.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the types of contracts? Describe them with their advantages and disadvantages .",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draft a detailed tender notice for the construction of new academic building at Engineering College which estimated cost is Rs.40 cr.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "List and explain the essential requirements of a valid contract.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 4,
+        "7": 1
+      },
+      "coverage": {
+        "8": 4,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 4A (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write short note on Task work.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Explain specifications. What care should be taken while drafting specification?",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the qualifications and functions of a valuer?",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give the rate of a) Brick b) Marble c) Steel d) Granite e) Cement f) sand",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What do you mean by Task or Out turn of work? How is it calculated?",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 3,
+        "6": 1,
+        "9": 1
+      },
+      "coverage": {
+        "7": 3,
+        "6": 1,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 4B (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for 12 mm thick cement plaster (C.M. 1:4) in wall for 100 m2.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Compute the material Required for 75 Cu.M cement concrete (1:2:4).",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for Cement concrete (1:4:8) for 10 m3.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Carry out the rate analysis of 1st class brickwork in 1:4 C:M",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Calculate the material required for 12mm thick plaster in wall for 100m2 (C.M. 1:4).",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 5
+      },
+      "coverage": {
+        "7": 5
+      }
+    },
+    {
+      "question": "Question 4C (OR)",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the various reasons for termination of contract.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write detailed specifications for the First class brickwork in CM (1:6).",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is depreciation? Explain the methods for calculating depreciation.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain item rate contract and cost plus percentage contract in detail.",
+          "href": "../papers/eeec.pdf#page=3"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write note on: 1) Earnest Money 2) Security deposit.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 3,
+        "6": 1,
+        "9": 1
+      },
+      "coverage": {
+        "8": 3,
+        "6": 1,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 5A",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between Estimating and Valuation.",
+          "href": "../papers/eeec.pdf#page=9"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define Tender. Enlist different types of tender.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Distinguish between scrap value and salvage value.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give the difference between Estimation and Valuation",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Give the measurement units of the following: (1) Cement (2) Sand (3) Skirting (4) Bricks (5) Mild steel bars (6) Marble",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "9": 3,
+        "3": 1,
+        "8": 1
+      },
+      "coverage": {
+        "9": 3,
+        "8": 1,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 5B",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the term (i) Lead and Lift (ii) Surface excavation.",
+          "href": "../papers/eeec.pdf#page=10"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain Revocation of Tender.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain Obsolescence, giving example.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the purpose of valuation.",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between Estimating and Valuation.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "9": 3,
+        "3": 1,
+        "8": 1
+      },
+      "coverage": {
+        "3": 1,
+        "8": 1,
+        "9": 3
+      }
+    },
+    {
+      "question": "Question 5C",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "The cost of newly constructed building was Rs 1,50,000/- the life of building is 75 years Determine the depreciation in the 30th year of life by straight line method, constant % method and sinking fund method at the 8% compound interest. The scrap value of building is 10% of its construction cost.",
+          "href": "../papers/eeec.pdf#page=10"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draft a tender notice for construction of School building and Hostel building on behalf of government of Gujarat having a cost of Rs.26,00,00,000/- at Ahmedabad city.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "A motor car was purchased in Rs.12000/-. Assuming its salvage value at the end of 6 years to be Rs.3000/-. Determine the amount of depreciation for each year by constant percentage method.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "A property may fetch a net annual income of Rs. 51000/- for next 30 years. Landlord expects a net return of 9% on his /her capital and the sinking fund value for the replacement of capital = 8%. Calculate the value of the property if ROI to redeem the property is 4%",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various types of outgoings.",
+          "href": "../papers/eeec.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "9": 4,
+        "8": 1
+      },
+      "coverage": {
+        "9": 4,
+        "8": 1
+      }
+    },
+    {
+      "question": "Question 5A (OR)",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between Free hold property and Lease hold property.",
+          "href": "../papers/eeec.pdf#page=10"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Distinguish Promise, Agreement & Contract.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Describe Security deposit.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : i) Sinking Fund , ii) Distress value, iii) Scrap value",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : 1) Cost 2) Price 3) Value.",
+          "href": "../papers/eeec.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "9": 3,
+        "8": 2
+      },
+      "coverage": {
+        "9": 3,
+        "8": 2
+      }
+    },
+    {
+      "question": "Question 5B (OR)",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define the terms: (1) Salvage value, (2) Market value, (3) Monopoly value, (4). Fair value",
+          "href": "../papers/eeec.pdf#page=10"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write a note on Liquidated Damages and Unliquidated Damages.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between Estimating and Valuation.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain different types of outgoings.",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Distinguish between Book value and Market value.",
+          "href": "../papers/eeec.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "9": 4,
+        "8": 1
+      },
+      "coverage": {
+        "9": 4,
+        "8": 1
+      }
+    },
+    {
+      "question": "Question 5C (OR)",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain various methods for valuation of a property.",
+          "href": "../papers/eeec.pdf#page=10"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Describe the various reason for termination of contract.",
+          "href": "../papers/eeec.pdf#page=7"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "The cost of newly constructed building is Rs. 100000/-. The life of the building is 60 years. The scrap value of building is 10% of its cost. Find the book value of the building after 35 years by Straight line method.",
+          "href": "../papers/eeec.pdf#page=5"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "The present value of a property is Rs. 330000/- out of which land cost Rs. 80,000/-. The owner expects 8% return on the construction cost and 5% return on land cost. Future life of building is 75 years. At the end of useful life, Rs. 400000/- will be required to replace construction cost. Assume sinking fund interest 5%, repair charges 1% of cost of construction. All other outgoings are 25% of net annual income. Take scrap value 10% of present value. Calculate the monthly rent.",
+          "href": "../papers/eeec.pdf#page=4"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various types of rent.",
+          "href": "../papers/eeec.pdf#page=2"
+        }
+      ],
+      "groups": {
+        "9": 4,
+        "8": 1
+      },
+      "coverage": {
+        "9": 4,
+        "8": 1
+      }
+    }
+  ],
+  "phe": [
+    {
+      "question": "Question 1A",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is the significance of water transportation compare to other modes of transportation?",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Compare Water Transportation and Land Transportation.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Give classification of harbors.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Compare Water Transportation and Land Transportation.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write advantages and disadvantages of water transportation.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 4,
+        "2": 1
+      },
+      "coverage": {
+        "1": 4,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 1B",
+      "records": [
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Discuss the historical development of water transportation in India.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the modern trends in water transportation in India.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Mention factors considered for selection of location of a harbor.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain the modern trends in water transportation in India.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2,
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define : (1) Wharf (2) Jetty (3) Break water (4) Dolphins",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 3,
+        "2": 1,
+        "2+4": 1
+      },
+      "coverage": {
+        "1": 3,
+        "2": 2,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 1C",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain different classifications of harbours.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the site selection and planning criteria for seaports.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss the site selection and planning criteria for seaports.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw the schematic diagram of harbour layout showing all components and briefly write each component.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 4
+      }
+    },
+    {
+      "question": "Question 2A",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define Wind Rose diagram and state its uses.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist and write the functions of bodies dealing with port administration in India.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "State requirements for a harbor.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            1
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Enlist and write the functions of bodies dealing with port administration in India.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2,
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between wharf and jetty.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "1": 2,
+        "2": 1,
+        "2+4": 1,
+        "3": 1
+      },
+      "coverage": {
+        "3": 1,
+        "1": 2,
+        "2": 2,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 2B",
+      "records": [
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Briefly explain Littoral Drift.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the surveys to be carried out for harbour planning.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Mention facilities of a good port.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the surveys to be carried out for harbour planning.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Give the classification of harbour with the examples .",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "3": 1
+      },
+      "coverage": {
+        "3": 1,
+        "2": 4
+      }
+    },
+    {
+      "question": "Question 2C",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain Dry Ports with their function and Benefits.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw the diagram of harbour layout showing all components of it.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw the diagram of harbour layout showing all components of it.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Briefly explain the necessary additional information required after preliminary layout of the port and before starting the final design.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 4,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 4
+      }
+    },
+    {
+      "question": "Question 2B (OR)",
+      "records": [
+        null,
+        null,
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain ANY FIVE characteristics of a ship with sketches .",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        null,
+        null
+      ],
+      "groups": {
+        "2": 1,
+        "NA": 4
+      },
+      "coverage": {
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 2C (OR)",
+      "records": [
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw the typical layout of a harbour showing all components. Briefly explain any three components.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain with sketch the different types of breakwaters.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain with sketch the different types of breakwaters.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the various ship features and important ship characteristics for the planning and designing of harbour.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "4": 2,
+        "NA": 1
+      },
+      "coverage": {
+        "2": 2,
+        "4": 2
+      }
+    },
+    {
+      "question": "Question 3A",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define Mooring and Enlist the mooring accessories.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : Spring Tide, Neap Tide and Lunar Day.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain Lunar day. Explain the causes of tides.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : Spring Tide, Neap Tide and Lunar Day.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "How the water waves are formed and generated?",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 4,
+        "4": 1
+      },
+      "coverage": {
+        "4": 1,
+        "3": 4
+      }
+    },
+    {
+      "question": "Question 3B",
+      "records": [
+        {
+          "chs": [
+            2,
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between wharf and jetty.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain ship characteristics: Bow, Keel, Port side, starboard side",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain Spring tide, Neap tide and Mean Sea Level with sketch .",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain ship characteristics: Bow, Keel, Port side, starboard side",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write short note on tidal datum.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "3": 2,
+        "2+4": 1
+      },
+      "coverage": {
+        "2": 3,
+        "4": 1,
+        "3": 2
+      }
+    },
+    {
+      "question": "Question 3C",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Enlist different types of breakwater and describe anyone with a neat sketch .",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the different wind characteristics? Also explain wind rose diagram with its uses.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What are the different wind characteristics? Also explain wind rose diagram with its uses.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain various types of break water with the help of neat sketch .",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "4": 2,
+        "NA": 1
+      },
+      "coverage": {
+        "4": 2,
+        "3": 2
+      }
+    },
+    {
+      "question": "Question 3A (OR)",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define fenders and Enlist the different types of fenders.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : Tidal Range, Tidal Bore and Clapotis.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain wind rose, its construction and its use.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : Tidal Range, Tidal Bore and Clapotis.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write short note on littoral drift.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 4,
+        "4": 1
+      },
+      "coverage": {
+        "4": 1,
+        "3": 4
+      }
+    },
+    {
+      "question": "Question 3B (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Differentiate between Dry docks and Wet docks.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain ship characteristics: Displacement Tonnage, Dead Weight Tonnage, Displacement light, Load line",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw neat titled sketches of different types of breakwaters.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Explain ship characteristics: Displacement Tonnage, Dead Weight Tonnage, Displacement light, Load line",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Briefly explain wave breaking and wave defection.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      },
+      "coverage": {
+        "5": 1,
+        "2": 2,
+        "4": 1,
+        "3": 1
+      }
+    },
+    {
+      "question": "Question 3C (OR)",
+      "records": [
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Enumerate different types of breakwater. What factors would guide the selection of a particular type?",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How are waves generated? Explain shallow and deep waves with sketches .",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            3
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "How are waves generated? Explain shallow and deep waves with sketches .",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Give comparison between mound type and vertical wall type breakwater.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "3": 2,
+        "4": 2,
+        "NA": 1
+      },
+      "coverage": {
+        "4": 2,
+        "3": 2
+      }
+    },
+    {
+      "question": "Question 4A",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write the purpose of transit sheds.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the advantages and disadvantages of floating dry docks.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Draw a neat titled sketch showing harbor layout with various components.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What are the advantages and disadvantages of floating dry docks.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            2,
+            4
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between quay and pier.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "5": 2,
+        "2": 1,
+        "2+4": 1,
+        "6": 1
+      },
+      "coverage": {
+        "6": 1,
+        "5": 2,
+        "2": 2,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 4B",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Briefly explain the operation of Lock Gates.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist the different types of locks and explain anyone.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss factors affecting size of a harbor.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist the different types of locks and explain anyone.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write short note on floating dock.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "5": 4,
+        "2": 1
+      },
+      "coverage": {
+        "5": 4,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 4C",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Enlist different types of locks and explain any one.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss buoys, beacons, and light house.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss buoys, beacons, and light house.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain various types of wharves with the help on neat sketch .",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 2,
+        "4": 1,
+        "5": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "5": 1,
+        "7": 2,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 4A (OR)",
+      "records": [
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a short note on Warehouses.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Compare dry docks and wet docks.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss factors affecting size of turning basin.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Compare dry docks and wet docks.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between dry dock and wet dock.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "5": 3,
+        "2": 1,
+        "6": 1
+      },
+      "coverage": {
+        "6": 1,
+        "5": 3,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 4B (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the different types of lock gates? Explain any one with sketch .",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Briefly explain the types of moorings.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            2
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss factors affecting width of harbor entrance.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Briefly explain the types of moorings.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Enlist and draw the sketch of different types of lock gates.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "4": 2,
+        "5": 2,
+        "2": 1
+      },
+      "coverage": {
+        "5": 2,
+        "4": 2,
+        "2": 1
+      }
+    },
+    {
+      "question": "Question 4C (OR)",
+      "records": [
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is floating dock? Give its advantages and disadvantages .",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Enumerate the different types of lock and explain any one.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Enumerate the different types of lock and explain any one.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            4
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write short notes on: (1) Piers (2) Fenders",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "5": 3,
+        "4": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "5": 3,
+        "4": 1
+      }
+    },
+    {
+      "question": "Question 5A",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Define : Light house, Buoys and Lightships.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a short note on transfer bridge.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain working of dry dock having lock gates with a sketch .",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Write a short note on transfer bridge.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Differentiate between ware house and transit shed.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "6": 3,
+        "5": 1,
+        "7": 1
+      },
+      "coverage": {
+        "7": 1,
+        "6": 3,
+        "5": 1
+      }
+    },
+    {
+      "question": "Question 5B",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Define dredging? Classify different types of dredging works.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the function of LORAN and RADAR.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            5
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Write short note on floating dock with a sketch .",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the function of LORAN and RADAR.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write short note on light house.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 3,
+        "5": 1,
+        "8": 1
+      },
+      "coverage": {
+        "8": 1,
+        "7": 3,
+        "5": 1
+      }
+    },
+    {
+      "question": "Question 5C",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss environmental impact of port activities.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is dredging? Enlist the different types of dredgers and explain any one.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "What is dredging? Enlist the different types of dredgers and explain any one.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain various floating type navigational aids used for water transportation.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 2,
+        "7": 1,
+        "9": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "9": 1,
+        "8": 2,
+        "7": 1
+      }
+    },
+    {
+      "question": "Question 5A (OR)",
+      "records": [
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Why Navigation aids are necessary in hrabours?",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is a transit shed? What are purposes of it?",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            4,
+            7
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "State uses of light house, buoys, bollard and dolphin.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            6
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "What is a transit shed? What are purposes of it?",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 3,
+          "text": "Discuss the various causes of beach erosion.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "6": 2,
+        "4+7": 1,
+        "7": 1,
+        "8": 1
+      },
+      "coverage": {
+        "7": 2,
+        "6": 2,
+        "4": 1,
+        "8": 1
+      }
+    },
+    {
+      "question": "Question 5B (OR)",
+      "records": [
+        {
+          "chs": [
+            8
+          ],
+          "provisional": true,
+          "marks": 4,
+          "text": "What are the causes of bridge erosion?",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the different types of buoys?",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "State purpose of dredging, types of dredging and their suitability.",
+          "href": "../papers/phe.pdf#page=3"
+        },
+        {
+          "chs": [
+            7
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "What are the different types of buoys?",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 4,
+          "text": "Write short note on economic evaluation of port project by B/C method.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "7": 2,
+        "8": 2,
+        "9": 1
+      },
+      "coverage": {
+        "8": 2,
+        "7": 2,
+        "9": 1
+      }
+    },
+    {
+      "question": "Question 5C (OR)",
+      "records": [
+        {
+          "chs": [
+            9
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Discuss economic evaluation of port projects.",
+          "href": "../papers/phe.pdf#page=5"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the different coastal protection works.",
+          "href": "../papers/phe.pdf#page=4"
+        },
+        null,
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain the different coastal protection works.",
+          "href": "../papers/phe.pdf#page=2"
+        },
+        {
+          "chs": [
+            8
+          ],
+          "provisional": false,
+          "marks": 7,
+          "text": "Explain various types of dredgers used for removal of materials from the sea bed.",
+          "href": "../papers/phe.pdf#page=1"
+        }
+      ],
+      "groups": {
+        "8": 3,
+        "9": 1,
+        "NA": 1
+      },
+      "coverage": {
+        "9": 1,
+        "8": 3
+      }
+    }
+  ]
+}

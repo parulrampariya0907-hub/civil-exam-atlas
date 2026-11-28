@@ -1,0 +1,5 @@
+LOCAL PREVIEW ONLY. Extract ZIP and open site/index.html. No deployment performed. Academic topic HTML unchanged. Histogram uses five GTU exam sessions and the existing Atlas chapter mapping. Mixed-chapter question groups sum to five; expanded coverage can overlap. Original public V18 HTML/PDF hashes matched audited repository. Latest audited desktop CSS and creator icon reconstructed locally. Existing live deployment must be re-checked before merging; do not replace live files blindly. No offline PWA behavior claimed.
+
+Compact update: translucent blue histogram, shorter rows, two desktop columns, single mobile column, jump buttons removed. All histogram rows, proof records and original topic markup are preserved.
+
+Linear revision: single-column continuous question list, inline chapter/count chips, no percentages or group headings, increased transparency. All proof and data preserved.

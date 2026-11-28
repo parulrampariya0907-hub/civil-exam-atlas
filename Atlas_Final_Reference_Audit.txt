@@ -1,0 +1,38 @@
+Civil Exam Atlas — targeted final reference and mapping review
+Scope: six subjects, source books and embedded paper PDFs; no deployment or syllabus redesign.
+
+STRUCTURAL VALIDATION
+724 unique question positions from 30 papers present in the six subject files.
+945 card-question instances, including intentionally repeated questions across related topics.
+All 945 instances match the source-derived ledger for session, position, marks, paper PDF page and recorded topic ID.
+All 382 book-reference cards inspected for PDF page bounds and book-box/answer-framework reference consistency.
+No out-of-bounds PDF reading reference or inconsistent duplicated reading reference detected.
+This is structural validation, not certification of every semantic mapping or every scanned page.
+
+VERIFIED TARGETED CORRECTIONS
+CEM c7-extra-audit-10: Section 7.7 Pumping Equipments (Dewatering Equipments) begins at PDF p.208; reading range corrected to 208–211. Some printed scan pages are missing.
+CEM c7-extra-audit-9: PDF pp.174–175 explicitly identified as §7.1.6 owning and operating cost; dedicated economic-life heading remains unverified.
+DPCS c3-11: verified printed pp.96–99 on PDF pp.51–52; printed p.100 not present; PDF p.53 starts anchorage slip.
+DPCS c4-16: removed instruction to use nonexistent teacher notes; two original PYQs retained as provisional.
+DSS c3-11: full Plate Girder Example 2 now referenced on PDF pp.149–157 / printed pp.284–301, replacing obsolete partial-book warning.
+DSS c3-12: worked stiffener reference expanded through PDF p.156 / printed p.299.
+DSS c6-4: S24 Q2A also directly asks Plastic Hinge; added cross-topic reference.
+PHE c3-5: W24/W25 Q3A OR explicitly ask Clapotis; mapped to §3.2.4 (PDF p.31 / printed p.53).
+PHE c3-x: S25 Q3B explicitly asks Mean Sea Level, covered in §3.3.3 (PDF p.35 / printed p.61); promoted from related to direct.
+PHE c5-7: verified §5.10 Lock Gates and §5.11 Operation of Lock Gates (PDF pp.59–60); restored correct section prefix; topic name preserved.
+
+REMAINING LIMITATIONS
+Every individual semantic assignment and full printed-page continuity have NOT been independently certified.
+Exact standalone references remain unverified for CEM cube testing/economic life, DHS cofferdam/construction sequence, EEEC good estimate, DPCS concordant profile/non-distortional prestressing, DSS steel advantages/circular shape factor derivation, PHE separate types of locks.
+No teacher notes or DPCS cover page requested. No invented pages or questions.
+IMP/Most IMP flags for affected cards retained because their existing historical/video rule outcomes did not change.
+Primary chapter histogram counts unchanged; new cross-topic references do not create new unique question parts.
+No new full browser regression in this pass; no deployment.
+
+Per-subject structural counts:
+CEM: 125/125 unique question positions; 172 card links; 79 topic cards; 215 book PDF pages; missing=0; extra=0; ledger mismatches=0.
+DHS: 115/115 unique question positions; 165 card links; 52 topic cards; 248 book PDF pages; missing=0; extra=0; ledger mismatches=0.
+EEEC: 125/125 unique question positions; 159 card links; 76 topic cards; 346 book PDF pages; missing=0; extra=0; ledger mismatches=0.
+DPCS: 125/125 unique question positions; 135 card links; 62 topic cards; 118 book PDF pages; missing=0; extra=0; ledger mismatches=0.
+DSS: 117/117 unique question positions; 127 card links; 48 topic cards; 243 book PDF pages; missing=0; extra=0; ledger mismatches=0.
+PHE: 117/117 unique question positions; 187 card links; 65 topic cards; 81 book PDF pages; missing=0; extra=0; ledger mismatches=0.

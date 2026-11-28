@@ -1,0 +1,197 @@
+{
+  "scope": [
+    "dss",
+    "dpcs",
+    "phe"
+  ],
+  "summary": {
+    "Fixed": 12,
+    "Unverified": 6,
+    "Needs my input": 1
+  },
+  "issues": [
+    [
+      "A · Structure",
+      "Official unit numbering and video/book chapter numbering are different in all three subjects.",
+      "Added explicit syllabus-to-Atlas crosswalk; retained original chapter order and printed/PDF numbers.",
+      "Fixed"
+    ],
+    [
+      "A/G · PHE book",
+      "Lock Gates was incorrectly prefixed 5.10–5.11; 5.11 is a figure number, not a section.",
+      "Changed prefix to §5.10; verified book PDF p. 59. Preserved video label.",
+      "Fixed"
+    ],
+    [
+      "G · PHE book",
+      "65 topic cards used generic “Reading pages” rather than named textbook headings.",
+      "Replaced 65 generic headings with section names from the textbook index; retained original page references.",
+      "Fixed"
+    ],
+    [
+      "G · PHE metadata",
+      "Book author details absent from Sources.",
+      "Added three authors, first edition 2021–22 and publisher from title page.",
+      "Fixed"
+    ],
+    [
+      "G · DSS metadata",
+      "Old textbook uses an earlier GTU subject code and some older loading-code references.",
+      "Distinguished the 2017 reference book from current syllabus and exam code editions; no code calculations changed.",
+      "Fixed"
+    ],
+    [
+      "B · Syllabus",
+      "No explicit crosswalk for official modules and their coverage gaps.",
+      "Added 6 DSS, 5 DPCS and 8 PHE grouped coverage rows; linked existing chapters and flagged missing subtopic coverage.",
+      "Fixed"
+    ],
+    [
+      "C · PYQ duplicate policy",
+      "Questions intentionally appear on multiple topic cards; treating these as separate exam questions inflates totals.",
+      "Recounted all 359 unique paper positions, checked marks and PDF pages; recorded cross-topic mappings separately.",
+      "Fixed"
+    ],
+    [
+      "D · Frequency",
+      "DPCS method matches were presented as direct-only; provisional matches could appear as confirmed.",
+      "Distinguished direct, same-method, related and provisional references; recalculated matched sessions and labels.",
+      "Fixed"
+    ],
+    [
+      "D · Histogram",
+      "PHE data-total metadata recorded five even when the position was absent.",
+      "Corrected 10 row attributes using actual paper positions; retained five-slot display with Not Asked.",
+      "Fixed"
+    ],
+    [
+      "D · Frequency chart",
+      "Existing histogram was by question position; no complete topic-level frequency table/bar chart.",
+      "Added 175-topic frequency table and labelled horizontal bars inside each target histogram; exported CSV with marks, session and source links.",
+      "Fixed"
+    ],
+    [
+      "E · Priority",
+      "Priority labels lacked consistently visible source basis.",
+      "Re-evaluated using existing thresholds and supplied explicit lecture emphasis; retained question text and examples. Changes logged per subject.",
+      "Fixed"
+    ],
+    [
+      "F · Topic video mapping",
+      "Video links were chapter-level only.",
+      "Made each existing VIDEO TOPIC label a link to its supplied source video; no separate video invented for supplemental topics.",
+      "Fixed"
+    ],
+    [
+      "F · Video access",
+      "Independent playback/title/channel could not be retrieved for all three links.",
+      "Marked UNVERIFIED; DSS/DPCS supplied transcripts used. PHE supplied slide labels retained, not independently replayed.",
+      "Unverified"
+    ],
+    [
+      "B · Syllabus gaps",
+      "Several official syllabus subtopics have no separately verified Atlas topic/PYQ/video/book mapping.",
+      "Listed index-supported PHE topics and other gaps in coverage panel. No invented IMP or PYQ classification.",
+      "Unverified"
+    ],
+    [
+      "A/G · Scanned books",
+      "Full printed-page continuity, every heading/page and every reading-window line cannot be certified from scan/index inspection.",
+      "Preserved existing printed and PDF numbers; recorded known scan limitations. DPCS exact concordant/non-distortional reference, DSS steel advantages/circular shape derivation, PHE lock-type list remain gaps.",
+      "Unverified"
+    ],
+    [
+      "G · DPCS metadata",
+      "Title/author/edition cover missing in available 118-page scan.",
+      "Marked metadata unverified rather than inferring it.",
+      "Needs my input"
+    ],
+    [
+      "C · Original wording",
+      "Text extraction has split lines/figures and a few ambiguous printed phrases.",
+      "Checked all 359 position/marks/page triples; 353 question texts matched normalized extracted text or the visually read PHE scan; six extraction exceptions retain original source links and require further visual transcription check.",
+      "Unverified"
+    ],
+    [
+      "B/E · PHE video",
+      "Original PHE screenshots/transcript not independently reopened in this audit.",
+      "Kept original slide wording and IMP labels subject to historical frequency; no assertion that full video content was independently checked.",
+      "Unverified"
+    ],
+    [
+      "H · UI",
+      "Full device/browser regression and live deployment not performed.",
+      "Only targeted HTML changes; test results recorded separately.",
+      "Unverified"
+    ]
+  ],
+  "subjects": {
+    "dss": {
+      "paper_parts": 117,
+      "by_session": {
+        "Summer 2024": 24,
+        "Winter 2024": 20,
+        "Summer 2025": 23,
+        "Winter 2025": 25,
+        "Summer 2026": 25
+      },
+      "total_marks_including_or": 595,
+      "topic_cards": 48,
+      "topic_video_links": 36,
+      "priority_changes": [],
+      "frequency_changes": 0,
+      "book_heading_changes": 0,
+      "histogram_metadata_changes": 0,
+      "histogram_errors": [],
+      "question_instances": 126,
+      "unique_questions": 117
+    },
+    "dpcs": {
+      "paper_parts": 125,
+      "by_session": {
+        "Summer 2026": 25,
+        "Winter 2025": 25,
+        "Summer 2025": 25,
+        "Winter 2024": 25,
+        "Summer 2024": 25
+      },
+      "total_marks_including_or": 595,
+      "topic_cards": 62,
+      "topic_video_links": 47,
+      "priority_changes": [
+        [
+          "c6-1",
+          true,
+          false
+        ]
+      ],
+      "frequency_changes": 1,
+      "book_heading_changes": 0,
+      "histogram_metadata_changes": 0,
+      "histogram_errors": [],
+      "question_instances": 135,
+      "unique_questions": 125
+    },
+    "phe": {
+      "paper_parts": 117,
+      "by_session": {
+        "Summer 2026": 25,
+        "Winter 2025": 25,
+        "Winter 2024": 25,
+        "Summer 2024": 25,
+        "Summer 2025": 17
+      },
+      "total_marks_including_or": 595,
+      "topic_cards": 65,
+      "topic_video_links": 62,
+      "priority_changes": [],
+      "frequency_changes": 0,
+      "book_heading_changes": 66,
+      "histogram_metadata_changes": 10,
+      "histogram_errors": [],
+      "question_instances": 185,
+      "unique_questions": 117
+    }
+  },
+  "limitations": "Source checks cover paper position, marks and starting PDF page for all 359 parts. Most wording verified by normalized text extraction; not full semantic re-tagging or line-by-line book audit. No deployment."
+}

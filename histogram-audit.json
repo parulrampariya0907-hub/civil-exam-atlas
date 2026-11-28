@@ -1,0 +1,66 @@
+{
+  "cem": {
+    "topics_unchanged": 79,
+    "actual_questions": 125,
+    "positions": 25,
+    "five_paper_records": 125,
+    "not_asked": 0,
+    "normal_marks": {
+      "S24": 70,
+      "W24": 70,
+      "S25": 70,
+      "W25": 70,
+      "S26": 70
+    },
+    "mixed_questions": 0,
+    "provisional": 0
+  },
+  "dhs": {
+    "topics_unchanged": 52,
+    "actual_questions": 115,
+    "positions": 26,
+    "five_paper_records": 130,
+    "not_asked": 15,
+    "normal_marks": {
+      "S24": 70,
+      "W24": 70,
+      "S25": 70,
+      "W25": 70,
+      "S26": 70
+    },
+    "mixed_questions": 1,
+    "provisional": 0
+  },
+  "eeec": {
+    "topics_unchanged": 76,
+    "actual_questions": 125,
+    "positions": 26,
+    "five_paper_records": 130,
+    "not_asked": 5,
+    "normal_marks": {
+      "S24": 70,
+      "W24": 70,
+      "S25": 70,
+      "W25": 70,
+      "S26": 70
+    },
+    "mixed_questions": 0,
+    "provisional": 0
+  },
+  "phe": {
+    "topics_unchanged": 65,
+    "actual_questions": 117,
+    "positions": 26,
+    "five_paper_records": 130,
+    "not_asked": 13,
+    "normal_marks": {
+      "S24": 70,
+      "W24": 70,
+      "S25": 70,
+      "W25": 70,
+      "S26": 70
+    },
+    "mixed_questions": 5,
+    "provisional": 1
+  }
+}

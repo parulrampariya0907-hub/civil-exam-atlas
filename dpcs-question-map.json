@@ -1,0 +1,2519 @@
+[
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "A",
+    "marks": 3,
+    "position": "1A",
+    "question": "Explain the terms: (1) Pretensioning (2) Tendon (3) Anchorage",
+    "key": "Summer 2026 Q1(a)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "B",
+    "marks": 4,
+    "position": "1B",
+    "question": "List the various types of tensioning device used in prestressed concrete.",
+    "key": "Summer 2026 Q1(b)",
+    "topics": [
+      "systems"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-10"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "C",
+    "marks": 7,
+    "position": "1C",
+    "question": "A prestressed rectangular concrete bam 200 mm wide and 600 mm deep is supporting a live load of 8kN/m over a span of 8 m. Find the effective prestressing force in the parabolic cable having an eccentricity of 80 mm at the center of span and concentric at the supports. Case 1) In this beam the bending effect of the prestressing force is nullified by the imposed load for the mid span section, neglecting self weight of the beam. Case 2) if the resultant force due to self weight, LL and prestressing force is zero at the soffit of the beam at the center of span section.",
+    "key": "Summer 2026 Q1(c)",
+    "topics": [
+      "load",
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2",
+      "c2-6"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "A",
+    "marks": 3,
+    "position": "2A",
+    "question": "Explain (1) Bonded Prestressed Concrete (2) Post-tensioning (3) Degree of Prestressing.",
+    "key": "Summer 2026 Q2(a)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "B",
+    "marks": 4,
+    "position": "2B",
+    "question": "Explain the concept of thrust line in PSC sections",
+    "key": "Summer 2026 Q2(b)",
+    "topics": [
+      "pressure"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c2-3"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C",
+    "question": "Distinguish between web shear, flexural and flexure-shear cracks in concrete beam with sketches.",
+    "key": "Summer 2026 Q2(c)",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c5-2"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C OR",
+    "question": "Explain stress distribution in the end block in the prestressed concrete beam.",
+    "key": "Summer 2026 Q2(c) · OR",
+    "topics": [
+      "end"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-15"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A",
+    "question": "Explain the differences of prestressed concrete over reinforced concrete.",
+    "key": "Summer 2026 Q3(a)",
+    "topics": [
+      "compare"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-7"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B",
+    "question": "Explain difference between time dependent and immediate losses in prestressed concrete sections.",
+    "key": "Summer 2026 Q3(b)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c3-2"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C",
+    "question": "A concrete beam of rectangular section 100 mm wide and 300 mm deep is prestressed by 5 wires of 7 mm diameter located at an eccentricity of 50 mm. Initial stress in the wires are 1200 MPa. Estimate the loss of stress in steel due to creep of concrete using IS code method.",
+    "key": "Summer 2026 Q3(c)",
+    "topics": [
+      "creep"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-7"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A OR",
+    "question": "Enlist the advantages of composite construction with prestressed and in situ concrete for structural members.",
+    "key": "Summer 2026 Q3(a) · OR",
+    "topics": [
+      "composite"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-9"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B OR",
+    "question": "Under what situations and types of structures would you recommended the use of unbounded tendons?",
+    "key": "Summer 2026 Q3(b) · OR",
+    "topics": [
+      "bond"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-13"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C OR",
+    "question": "How do you compute the loss of stress due to elastic deformation of concrete in post tensioned members with several cables which are successively tensioned? Explain in detail.",
+    "key": "Summer 2026 Q3(c) · OR",
+    "topics": [
+      "elastic"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-3"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A",
+    "question": "Post tensioned members do not suffer the loss of prestress due to elastic deformation why?",
+    "key": "Summer 2026 Q4(a)",
+    "topics": [
+      "elastic"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-3"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 1,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B",
+    "question": "Enlist the formula for calculation of Moment of resistance of Flanged sections as per IS 1343 recommendations.",
+    "key": "Summer 2026 Q4(b)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C",
+    "question": "Explain the method of computing bursting tension in an end block subjected to evenly distributed forces.",
+    "key": "Summer 2026 Q4(c)",
+    "topics": [
+      "end"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-15"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A OR",
+    "question": "What is the need for the use of high strength concrete and tensile steel in prestressed concrete?",
+    "key": "Summer 2026 Q4(a) · OR",
+    "topics": [
+      "mat"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-5",
+      "c1-6"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B OR",
+    "question": "Define transmission length and what is expression of it as per IS 1343 recommendations.",
+    "key": "Summer 2026 Q4(b) · OR",
+    "topics": [
+      "trans"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-12"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C OR",
+    "question": "A Pretensioned prestressed concrete beam of rectangular section 150 mm wide and 350 mm deep has effective cover of 50 mm. If fck = 40MPa, fp = 1600 MPa and Ap = 461 mm2, Calculate ultimate flexural strength using IS code provisions.",
+    "key": "Summer 2026 Q4(c) · OR",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A",
+    "question": "Define the losses present in post-tensioned member.",
+    "key": "Summer 2026 Q5(a)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-1"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B",
+    "question": "State the assumptions made in the design of prestressed concrete members for the limit state of collapse in flexure.",
+    "key": "Summer 2026 Q5(b)",
+    "topics": [
+      "limit"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-5"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C",
+    "question": "A Pretensioned T section has a flange which is 300 mm wide and 200 mm thick. The rib is 150 mm wide by 350 mm deep. The effective depth of cross section is 500 mm. Ap = 200 mm2, fck = 50 MPa and fp = 1600 MPa. Estimate ultimate moment capacity of the T section using IS code method.",
+    "key": "Summer 2026 Q5(c)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A OR",
+    "question": "Explain drying shrinkage strain and autogenous shrinkage strain.",
+    "key": "Summer 2026 Q5(a) · OR",
+    "topics": [
+      "shrink"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-11"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B OR",
+    "question": "State the four fundamental conditions for stresses at transfer and service stage.",
+    "key": "Summer 2026 Q5(b) · OR",
+    "topics": [
+      "design"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-14"
+    ]
+  },
+  {
+    "session": "Summer 2026",
+    "page": 2,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C OR",
+    "question": "What is the effect of torsion on prestressed concrete sections? How do you compute the shear stressed developed in different types of cross sections due to torque?",
+    "key": "Summer 2026 Q5(c) · OR",
+    "topics": [
+      "torsion"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-11"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "A",
+    "marks": 3,
+    "position": "1A",
+    "question": "Justify why high-strength concrete and high-tensile steel are essential in prestressed concrete.",
+    "key": "Winter 2025 Q1(a)",
+    "topics": [
+      "mat"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-5",
+      "c1-6"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "B",
+    "marks": 4,
+    "position": "1B",
+    "question": "Compare Pre-tensioning and post-tensioning techniques of prestressed concrete.",
+    "key": "Winter 2025 Q1(b)",
+    "topics": [
+      "types"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-8"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "C",
+    "marks": 7,
+    "position": "1C",
+    "question": "Describe, with neat sketches, how the Load Balancing Concept can be used to effectively control deflection in prestressed concrete beams.",
+    "key": "Winter 2025 Q1(c)",
+    "topics": [
+      "load"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c2-5"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "A",
+    "marks": 3,
+    "position": "2A",
+    "question": "Define the term Pressure Line or Thrust Line in a prestressed concrete beam. How is it related to the Load Balancing Concept?",
+    "key": "Winter 2025 Q2(a)",
+    "topics": [
+      "pressure",
+      "load"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c2-3",
+      "c2-5"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "B",
+    "marks": 4,
+    "position": "2B",
+    "question": "A prestressed concrete beam 300 mm x 500 mm is post tensioned by a parabolic cable with an eccentricity of 50 mm at the center and concentric at the supports, prestressing force is 500 kN. Estimate loss of prestress in cable due to creep of concrete. Take modular ratio 6 and creep coefficient as 3.0.",
+    "key": "Winter 2025 Q2(b)",
+    "topics": [
+      "creep"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-7"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C",
+    "question": "Define the loss of prestress in prestressed concrete. Differentiate in detail between Immediate Losses and Time-Dependent Losses.",
+    "key": "Winter 2025 Q2(c)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c3-1",
+      "c3-2"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C OR",
+    "question": "A rectangular beam of size 300×600 mm is prestressed by 8 wires of 9 mm diameter with their centroid at 50 mm below the centroidal axis of the beam. Initial prestress = 2000 N/mm2 , fck= 50 N/mm2 , Es=210 kN/mm2 , relaxation loss = 5%, creep coefficient= 1.6, Total shrinkage strain = 3×10 −4, Age of loading = 28 days, Relative humidity 60%, Calculate: (i) Loss of prestress due to elastic shortening of concrete (ii) Loss due to creep of concrete (iii) Loss due to shrinkage of concrete (iv) Loss due to relaxation of stress in steel",
+    "key": "Winter 2025 Q2(c) · OR",
+    "topics": [
+      "total"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-10"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A",
+    "question": "Explain the terms: end block, anchorage zone.",
+    "key": "Winter 2025 Q3(a)",
+    "topics": [
+      "end"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-15"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 3,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B",
+    "question": "What are the different types of flexural failure modes of prestressed concrete beams? Explain with sketches.",
+    "key": "Winter 2025 Q3(b)",
+    "topics": [
+      "failure"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c4-1"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C",
+    "question": "Explain the method of computing the flexural strength of rectangular and T-beam sections as per IS: 1343–2012.",
+    "key": "Winter 2025 Q3(c)",
+    "topics": [
+      "rect",
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A OR",
+    "question": "Explain the Strain Compatibility Method for determining the ultimate flexural strength of a prestressed concrete section.",
+    "key": "Winter 2025 Q3(a) · OR",
+    "topics": [
+      "strain"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-2"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B OR",
+    "question": "Explain the concept of composite construction using prestressed and in-situ concrete.",
+    "key": "Winter 2025 Q3(b) · OR",
+    "topics": [
+      "composite"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-9"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C OR",
+    "question": "Explain the phenomenon of bursting force that develops in the end block. If the end block of a post-tensioned concrete beam, with an overall square cross-section of side 400 mm, is subjected to a prestressing force of 500 kN through a square anchorage plate of side 120 mm. Calculate the bursting force as per IS 1343:2012.",
+    "key": "Winter 2025 Q3(c) · OR",
+    "topics": [
+      "end"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-11"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A",
+    "question": "List the factors influencing the short term and long-term deflections of prestressed concrete members.",
+    "key": "Winter 2025 Q4(a)",
+    "topics": [
+      "deflect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-6"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B",
+    "question": "A pre-tensioned T-section has a flange 1200 mm wide and 200 mm thick. The rib is 250 mm wide and 450 mm deep. The effective depth of cross section is 600 mm. The high tensile steel has an area of 800 mm2 . If the characteristic cube strength of concrete and tensile strength of steel is 50 and 1860 N/mm2 respectively, calculate the flexural strength of the T-section.",
+    "key": "Winter 2025 Q4(b)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C",
+    "question": "A rectangular concrete beam having section 150 × 450 mm is prestressed by a parabolic cable carrying initial prestressing force of 400 kN. The cable has an eccentricity of 100 mm at the center of span and is concentric at the supports. If span of the beam is 10 m and live load 4 kN/m, estimate short term deflection. Assuming E=35 kN/mm2 and creep coefficient is 2.0, loss of prestress = 15% of initial prestress after 6 months, estimate long term deflection at the center of the span, assuming that dead load and live loads are simultaneously acting after the release of prestress.",
+    "key": "Winter 2025 Q4(c)",
+    "topics": [
+      "deflect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-8"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A OR",
+    "question": "Explain the modes of failure in prestressed concrete beams subjected to combined bending, shear and torsion.",
+    "key": "Winter 2025 Q4(a) · OR",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-4"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B OR",
+    "question": "Explain the procedure for calculating shear capacity of cracked and uncracked sections in prestressed concrete beams as per IS 1343:2012.",
+    "key": "Winter 2025 Q4(b) · OR",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-8"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C OR",
+    "question": "The support section of a prestressed concrete beam, 200 mm wide by 400 mm deep is required to support an ultimate shear force of 180 kN. The compressive prestress at the centroid axis is 6 N/mm2 . The characteristic cube strength of concrete is 50 N/mm2 , the cover to reinforcement is 40 mm. If the characteristic tensile strength of stirrups is 500 N/mm2 , design suitable shear reinforcement in the section as per the IS: 1343-2012.",
+    "key": "Winter 2025 Q4(c) · OR",
+    "topics": [
+      "reinforce"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c5-3"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A",
+    "question": "A prestressed concrete beam has a rectangular cross-section of 500 x 800 mm and a span of 12 meters. It carries a uniformly distributed load of 25 kN/m, which includes its own self-weight. The beam is axially prestressed by a cable providing an effective force of 2000 kN, applied along the longitudinal centroidal axis. Determine the extreme fiber stresses in the concrete at the mid-span section.",
+    "key": "Winter 2025 Q5(a)",
+    "topics": [
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 4,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B",
+    "question": "Explain elastic design of prestressed tension members.",
+    "key": "Winter 2025 Q5(b)",
+    "topics": [
+      "tension"
+    ],
+    "chapters": [
+      6
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c6-2"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 5,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C",
+    "question": "A prestressed concrete beam span 12 m of rectangular section 200 mm wide and 450 mm deep is axially prestressed by a cable carrying an effective force of 350 kN. The beam supports total udl of 7 kN/m including self-weight. Compare the magnitude of principal tensile stress in the beam with and without axial prestress.",
+    "key": "Winter 2025 Q5(c)",
+    "topics": [
+      "principal"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c5-7"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 5,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A OR",
+    "question": "List various types of prestressed tension and compression members.",
+    "key": "Winter 2025 Q5(a) · OR",
+    "topics": [
+      "tension",
+      "compression"
+    ],
+    "chapters": [
+      6
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c6-1",
+      "c6-3"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 5,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B OR",
+    "question": "Write the stress equations for a short prestressed concrete column at transfer and service load conditions. Define all the terms used.",
+    "key": "Winter 2025 Q5(b) · OR",
+    "topics": [
+      "compression"
+    ],
+    "chapters": [
+      6
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c6-4"
+    ]
+  },
+  {
+    "session": "Winter 2025",
+    "page": 5,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C OR",
+    "question": "Explain the procedure as per the IS 1343:2012 for designing a rectangular RC beam subjected to combined bending, shear, and torsion.",
+    "key": "Winter 2025 Q5(c) · OR",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-5"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "A",
+    "marks": 3,
+    "position": "1A",
+    "question": "Differentiate between prestressed concrete and reinforced concrete.",
+    "key": "Summer 2025 Q1(a)",
+    "topics": [
+      "compare"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-7"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "B",
+    "marks": 4,
+    "position": "1B",
+    "question": "Explain the basic concept of Prestressed Concrete.",
+    "key": "Summer 2025 Q1(b)",
+    "topics": [
+      "principle"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-2"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "C",
+    "marks": 7,
+    "position": "1C",
+    "question": "Explain various types of losses that occur in prestress concrete.",
+    "key": "Summer 2025 Q1(c)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-1"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "A",
+    "marks": 3,
+    "position": "2A",
+    "question": "Explain the Post-tensioned method of prestressing concrete.",
+    "key": "Summer 2025 Q2(a)",
+    "topics": [
+      "types"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-8"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "B",
+    "marks": 4,
+    "position": "2B",
+    "question": "Distinguish between creep and shrinkage losses of prestressed concrete.",
+    "key": "Summer 2025 Q2(b)",
+    "topics": [
+      "creep",
+      "shrink"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c3-8"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C",
+    "question": "A pre-tensioned concrete beam, 100 mm wide and 300 mm deep, is prestressed by straight wires carrying an initial force of 150 kN at an eccentricity of 50 mm the Modulus of Elasticity of steel and concrete are 210 and 35 kN/m2 respectively. Estimate the percentage loss of stress in steel due to elastic deformation of concrete if the area of steel wires is 188 mm2.",
+    "key": "Summer 2025 Q2(c)",
+    "topics": [
+      "elastic"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-4"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C OR",
+    "question": "A prestressed concrete beam 100 mm x 300 mm is post tensioned by parabolic the cable with an eccentricity of 50 mm at the center and concentric at the supports, prestressing force being 240 kN. Estimate the loss of prestress in cable due to the creep of concrete. Take the modular ratio as 6 and the creep coefficient as 3.",
+    "key": "Summer 2025 Q2(c) · OR",
+    "topics": [
+      "creep"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-7"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A",
+    "question": "Enlist the assumptions of the Strain compatibility method for prestressed concrete.",
+    "key": "Summer 2025 Q3(a)",
+    "topics": [
+      "strain"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-2"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B",
+    "question": "Define the following terms: Post-Tensioning, Tendon, Anchorage, Bonded Prestressed Concrete, Partial Prestressing, Eccentric Prestressing, Circular Prestressing.",
+    "key": "Summer 2025 Q3(b)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C",
+    "question": "A pre-tensioned concrete beam having a rectangular section, 150 mm wide and 350 mm deep has an effective cover of 50 mm.                 If, fck = 40 N/mm2, fp = 1600 N/mm2, the area of prestressing steel Ap = 461 mm2, calculate the ultimate flexural strength of the section using IS: 1343- 2012.",
+    "key": "Summer 2025 Q3(c)",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A OR",
+    "question": "Discuss the effect of tendon profile on the deflection of the prestressed concrete beam.",
+    "key": "Summer 2025 Q3(a) · OR",
+    "topics": [
+      "deflect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-6"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 6,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B OR",
+    "question": "Explain the provisions for bursting tensile force and bearing stress for prestressed concrete sections as per the IS: 1343: 2012.",
+    "key": "Summer 2025 Q3(b) · OR",
+    "topics": [
+      "end"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-15"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C OR",
+    "question": "A pre-tensioned T-section has a flange with dimensions of 300 mm in width and 200 mm in thickness. The rib is 150 mm wide by 350 mm deep. The effective depth of the cross section is 500 mm. If, fck = 50 N/mm2, fp = 1600 N/mm2, the area of prestressing steel Ap = 200 mm2, estimate the ultimate moment capacity of T-section using the IS: 1343- 2012.",
+    "key": "Summer 2025 Q3(c) · OR",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A",
+    "question": "Explain flexural, flexural-shear, and web shear cracks in the concrete beam with the sketches.",
+    "key": "Summer 2025 Q4(a)",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c5-2"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B",
+    "question": "A prestressed concrete beam spans 10 m of rectangular section 120 mm wide and 300 mm deep and is axially prestressed by a cable carrying an effective force of 180 kN. The beam supports a total udl of 5 kN/m including self-weight. Compare the magnitude of the principal tensile stress in the beam with and without axial prestress.",
+    "key": "Summer 2025 Q4(b)",
+    "topics": [
+      "principal"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c5-7"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C",
+    "question": "Explain the provision of the design of shear reinforcement as per the IS:1343- 2012.",
+    "key": "Summer 2025 Q4(c)",
+    "topics": [
+      "reinforce"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-9"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A OR",
+    "question": "Explain the various modes of failure that are encountered in prestressed concrete beams subjected to bending moment, shear force, and torsion simultaneously.",
+    "key": "Summer 2025 Q4(a) · OR",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-4"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B OR",
+    "question": "Write a note on the computation of the ultimate shear resistance of the prestressed concrete section when the section is cracked, and uncracked in flexure.",
+    "key": "Summer 2025 Q4(b) · OR",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-8"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C OR",
+    "question": "Explain the reinforcement provisions for resisting combined shear, torsion, and bending stresses in prestressed concrete according to IS:1343-2012.",
+    "key": "Summer 2025 Q4(c) · OR",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-5"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A",
+    "question": "Enlist various tension members of prestressed concrete and explain the elastic design of prestressed tension member.",
+    "key": "Summer 2025 Q5(a)",
+    "topics": [
+      "tension"
+    ],
+    "chapters": [
+      6
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c6-2",
+      "c6-3"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B",
+    "question": "Discuss the maximum allowable compressive stress limits in flexure due to prestressing at both the service stage and transfer stage for post- tensioned and pre-tensioned members, as per IS:1343-2012.",
+    "key": "Summer 2025 Q5(b)",
+    "topics": [
+      "mat"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-12"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C",
+    "question": "Describe composite prestressed construction and its advantages. Additionally, provide a detailed sketch of composite bridge decks incorporating precast prestressed elements.",
+    "key": "Summer 2025 Q5(c)",
+    "topics": [
+      "composite"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c4-9"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A OR",
+    "question": "Justify the statement that the use of high-strength concrete and high- tensile steel is essential in prestressed concrete.",
+    "key": "Summer 2025 Q5(a) · OR",
+    "topics": [
+      "mat"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-5",
+      "c1-6"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B OR",
+    "question": "Describe the stresses that occur in a short prestressed concrete column during the transfer stage and under service conditions.",
+    "key": "Summer 2025 Q5(b) · OR",
+    "topics": [
+      "compression"
+    ],
+    "chapters": [
+      6
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c6-4"
+    ]
+  },
+  {
+    "session": "Summer 2025",
+    "page": 7,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C OR",
+    "question": "A simply supported prestressed concrete beam with 10 m span and a rectangular section of 600 x 900 mm is subjected to prestressing force of 5600 kN applied at an eccentricity of 200 mm below the centroid of the section. Find top and bottom fibre stresses at transfer and after application of live load 80 kN/m. Consider losses 15%. Draw stress distribution diagram at mid span for stresses at transfer stage and at the service stage.",
+    "key": "Summer 2025 Q5(c) · OR",
+    "topics": [
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "A",
+    "marks": 3,
+    "position": "1A",
+    "question": "Explain the terms: (1) Pretensioning (2) Tendon (3) Anchorage",
+    "key": "Winter 2024 Q1(a)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "B",
+    "marks": 4,
+    "position": "1B",
+    "question": "List the various types of tensioning device used in prestressed concrete.",
+    "key": "Winter 2024 Q1(b)",
+    "topics": [
+      "systems"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-10"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "C",
+    "marks": 7,
+    "position": "1C",
+    "question": "A rectangular prestressed beam of 150 x 300 mm is used over an effective span of 10m. The cable is having with zero eccentricity at support and linearly varying to 50 mm at the center, carries a prestressing force of 500 kN. Find the magnitude of the concentrated load Q located at the center of the span, if the load counteracts the bending effect of the prestressing force.",
+    "key": "Winter 2024 Q1(c)",
+    "topics": [
+      "load"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-6"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "A",
+    "marks": 3,
+    "position": "2A",
+    "question": "Define (1) Bonded Prestressed Concrete (2) Post-tensioning (3) Degree of Prestressing.",
+    "key": "Winter 2024 Q2(a)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "B",
+    "marks": 4,
+    "position": "2B",
+    "question": "Enlist the formula for calculating losses due to Elastic deformation and Friction in prestressed concrete sections",
+    "key": "Winter 2024 Q2(b)",
+    "topics": [
+      "elastic",
+      "friction"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-3",
+      "c3-5"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C",
+    "question": "Explain with sketch IS 1343 recommendations for computing the Moment of resistance of rectangular section.",
+    "key": "Winter 2024 Q2(c)",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C OR",
+    "question": "Enlist the advantages of composite construction with prestressed and in situ concrete for structural members.",
+    "key": "Winter 2024 Q2(c) · OR",
+    "topics": [
+      "composite"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-9"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A",
+    "question": "Write the assumptions of Strain compatibility method.",
+    "key": "Winter 2024 Q3(a)",
+    "topics": [
+      "strain"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-2"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B",
+    "question": "Explain IS 1343 recommendations for design of prestressed members subjected to bending and torsion.",
+    "key": "Winter 2024 Q3(b)",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-5"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C",
+    "question": "A concrete beam with a single overhang is simply supported at A and B over a span of 8 m and overhang BC is 2 m. The beam is of size 300 x 900 mm and supports a UDL of live load of 3.52 kN/m over entire span in addition to self weight. Determine the profile of prestressing cable with effective force of 500 kN which can balance dead load and live load.",
+    "key": "Winter 2024 Q3(c)",
+    "topics": [
+      "load"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-6"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A OR",
+    "question": "Enlist the differences of prestressed concrete over reinforced concrete.",
+    "key": "Winter 2024 Q3(a) · OR",
+    "topics": [
+      "compare"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-7"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B OR",
+    "question": "Enlist different types of flexural failure and explain any one in detail.",
+    "key": "Winter 2024 Q3(b) · OR",
+    "topics": [
+      "failure"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-1"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 8,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C OR",
+    "question": "A concrete beam is prestressed by a cable with initial prestressing force of 300 kN. The cross sectional area of wires in the cable is 300 mm2. Calculate the percentage loss of stress in the cable only due to shrinkage, if the beam is Pretensioned. Assume Es = 210 kN/mm2.",
+    "key": "Winter 2024 Q3(c) · OR",
+    "topics": [
+      "shrink"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c3-11"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A",
+    "question": "Explain transmission length, and what is expression of it as per IS 1343 recommendations.",
+    "key": "Winter 2024 Q4(a)",
+    "topics": [
+      "trans"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-12"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B",
+    "question": "Explain the concept of thrust line in PSC sections",
+    "key": "Winter 2024 Q4(b)",
+    "topics": [
+      "pressure"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c2-3"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C",
+    "question": "What is effective reinforcement ratio? In what way it influence the stress in tendons and the neutral axis depth at the limit state of collapse of prestressed concrete sections?",
+    "key": "Winter 2024 Q4(c)",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A OR",
+    "question": "Explain IS 1343 recommendations for design of prestressed members subjected to shear.",
+    "key": "Winter 2024 Q4(a) · OR",
+    "topics": [
+      "reinforce"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-9"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B OR",
+    "question": "Explain the concordant profile.",
+    "key": "Winter 2024 Q4(b) · OR",
+    "topics": [
+      "concord"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": true,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-16"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C OR",
+    "question": "A Pretensioned prestressed concrete beam having a rectangular section of 150 x 350 mm has an effective cover of 50 mm. If fck = 40 MPa, fp = 1600 MPa and area of prestressing steel Ap = 461 mm2, Calculate ultimate flexural strength of section.",
+    "key": "Winter 2024 Q4(c) · OR",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A",
+    "question": "Enlist difference between time dependent and immediate losses in prestressed concrete sections.",
+    "key": "Winter 2024 Q5(a)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c3-2"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B",
+    "question": "Differentiate between web shear, flexural and flexure-shear cracks in concrete beam with sketches.",
+    "key": "Winter 2024 Q5(b)",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c5-2"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C",
+    "question": "A Post tensioned prestressed concrete T beam having a flange width of 1200 mm and flange thickness of 200 mm, thickness of web being 300 mm is prestressed by 2000 mm2 at an effective depth of 1600 mm. If fck = 40 MPa, fp = 1600 MPa, Calculate ultimate flexural strength of unbounded T section assuming span/depth ratio as 20 and fpe = 1000 MPa.",
+    "key": "Winter 2024 Q5(c)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A OR",
+    "question": "Differentiate between Pre-tensioning and Post-tensioning.",
+    "key": "Winter 2024 Q5(a) · OR",
+    "topics": [
+      "types"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-8"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B OR",
+    "question": "What is non distortional prestressing?",
+    "key": "Winter 2024 Q5(b) · OR",
+    "topics": [
+      "concord"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": true,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-16"
+    ]
+  },
+  {
+    "session": "Winter 2024",
+    "page": 9,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C OR",
+    "question": "Elaborate anchorage slip. How do you compute the loss of stress due to anchorage slip?",
+    "key": "Winter 2024 Q5(c) · OR",
+    "topics": [
+      "slip"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-9"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "A",
+    "marks": 3,
+    "position": "1A",
+    "question": "Explain the differences of prestressed concrete over reinforced concrete.",
+    "key": "Summer 2024 Q1(a)",
+    "topics": [
+      "compare"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-7"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "B",
+    "marks": 4,
+    "position": "1B",
+    "question": "Explain IS 1343 recommendations for design of prestressed members subjected to bending and torsion.",
+    "key": "Summer 2024 Q1(b)",
+    "topics": [
+      "combined"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-5"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "C",
+    "marks": 7,
+    "position": "1C",
+    "question": "A rectangular concrete bam 230 mm wide and 320 mm deep is prestressed by a force of 400 kN at a constant eccentricity of 50 mm. The beam supports a concentrated load of 70kN at the centre span of 5 m. Determine the resultant stresses at center span and quarter span for the beam. Neglect the self-weight of the beam.",
+    "key": "Summer 2024 Q1(c)",
+    "topics": [
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "A",
+    "marks": 3,
+    "position": "2A",
+    "question": "Enlist different types of flexural failure and explain any one in detail.",
+    "key": "Summer 2024 Q2(a)",
+    "topics": [
+      "failure"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-1"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "B",
+    "marks": 4,
+    "position": "2B",
+    "question": "Write the assumptions of Strain compatibility method.",
+    "key": "Summer 2024 Q2(b)",
+    "topics": [
+      "strain"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-2"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C",
+    "question": "Explain anchorage slip. How do you compute the loss of stress due to anchorage slip?",
+    "key": "Summer 2024 Q2(c)",
+    "topics": [
+      "slip"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-9"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "C",
+    "marks": 7,
+    "position": "2C OR",
+    "question": "Explain with sketch IS 1343 recommendations for computing the Moment of resistance of rectangular section.",
+    "key": "Summer 2024 Q2(c) · OR",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A",
+    "question": "Explain difference between time dependent and immediate losses in prestressed concrete sections.",
+    "key": "Summer 2024 Q3(a)",
+    "topics": [
+      "losses"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c3-2"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B",
+    "question": "Differentiate between Pre-tensioning and Post-tensioning.",
+    "key": "Summer 2024 Q3(b)",
+    "topics": [
+      "types"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Compare",
+    "atlas_topic_ids": [
+      "c1-8"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C",
+    "question": "A prestressed concrete beam with a rectangular section 180mm wide, 350mm deep supports a uniformly distributed load of 8 kN/m, which includes the self-weight of the beam. The effective span of the beam is 4 m. The beam is concentrically prestressed by cable carrying a force of 150kN. Locate the position of the pressure line in the beam.",
+    "key": "Summer 2024 Q3(c)",
+    "topics": [
+      "pressure"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-4"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "A",
+    "marks": 3,
+    "position": "3A OR",
+    "question": "Define the terms: (1) Pretensioning (2) Tendon (3) Anchorage",
+    "key": "Summer 2024 Q3(a) · OR",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "B",
+    "marks": 4,
+    "position": "3B OR",
+    "question": "Distinguish between web shear, flexural and flexure-shear cracks in concrete beam with sketches.",
+    "key": "Summer 2024 Q3(b) · OR",
+    "topics": [
+      "shear"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Sketch + theory",
+    "atlas_topic_ids": [
+      "c5-2"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "C",
+    "marks": 7,
+    "position": "3C OR",
+    "question": "A rectangular concrete beam of cross-section 32cm deep and 23cm wide is prestressed by means of 18 wires of 5mm diameter located 5 cm from the bottom of the beam and 4 wires of diameter of 5mm, 3 cm from the top. Assuming the prestress in the steel as 700 N/mm2, determine the stressed at the extreme fibers of the mid span sections when the beam is supporting its own weight over a span of 5 m. If a uniformly distributed live load of 8 kN/m is imposed, evaluate the maximum stress in concrete. The density of concrete is 24 kN/m3.",
+    "key": "Summer 2024 Q3(c) · OR",
+    "topics": [
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 10,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A",
+    "question": "Define transmission length, and what is expression of it as per IS 1343 recommendations.",
+    "key": "Summer 2024 Q4(a)",
+    "topics": [
+      "trans"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-12"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B",
+    "question": "Enlist the advantages of composite construction with prestressed and in situ concrete for structural members.",
+    "key": "Summer 2024 Q4(b)",
+    "topics": [
+      "composite"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-9"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C",
+    "question": "The cross-section of a symmetrical I-section prestressed beam is 320mm by 800mm (overall), with flange and web 120mm thick. The beam is post tensioned by cables containing 40 wires of 5mm diameter high-tensile steel wires at an eccentricity of 200mm. The 28- days strength of concrete in compression is 40N/mm2. Determine the ultimate moment of resistance of the section.",
+    "key": "Summer 2024 Q4(c)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "A",
+    "marks": 3,
+    "position": "4A OR",
+    "question": "Explain the concept of thrust line in PSC sections",
+    "key": "Summer 2024 Q4(a) · OR",
+    "topics": [
+      "pressure"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c2-3"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "B",
+    "marks": 4,
+    "position": "4B OR",
+    "question": "Enlist the formula for calculating losses due to Elastic deformation and Friction in prestressed concrete sections",
+    "key": "Summer 2024 Q4(b) · OR",
+    "topics": [
+      "elastic",
+      "friction"
+    ],
+    "chapters": [
+      3
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c3-3",
+      "c3-5"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "C",
+    "marks": 7,
+    "position": "4C OR",
+    "question": "A bonded prestressed concrete beam is of rectangular section of width 380mm and overall depth 1000mm. The tendons consisting of 3000 mm2 of standard strands with characteristic strength of 1600 N/mm2. The strands are located at 800 mm from the top face of the beam. The characteristic cube strength of concrete is 50 N/mm2. Estimate the ultimate moment capacity of section.",
+    "key": "Summer 2024 Q4(c) · OR",
+    "topics": [
+      "rect"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A",
+    "question": "Define (1) Bonded Prestressed Concrete (2) Post-tensioning (3) Degree of Prestressing.",
+    "key": "Summer 2024 Q5(a)",
+    "topics": [
+      "term"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-1"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B",
+    "question": "List the various types of tensioning device used in prestressed concrete.",
+    "key": "Summer 2024 Q5(b)",
+    "topics": [
+      "systems"
+    ],
+    "chapters": [
+      1
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c1-10"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C",
+    "question": "An Unsymmetrical I section has an overall depth of 2200mm. The top flange width and depth are equal to 1400mm and 300mm respectively, and the bottom flange width and depth are equal to 800mm and 200mm respectively. The thickness of the web is 250mm. The tendons having a cross sectional area of 7200mm2 are located at 180mm from soffit of the beam. If the ultimate compressive strength of concrete and tensile strength of steel are 40 and 1650 N/mm2 respectively, estimate the Flexural strength of the section.",
+    "key": "Summer 2024 Q5(c)",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c4-4"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "A",
+    "marks": 3,
+    "position": "5A OR",
+    "question": "Discuss IS 1343 recommendations for design of prestressed members subjected to shear.",
+    "key": "Summer 2024 Q5(a) · OR",
+    "topics": [
+      "reinforce"
+    ],
+    "chapters": [
+      5
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c5-9"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "B",
+    "marks": 4,
+    "position": "5B OR",
+    "question": "Enlist the formula for calculation of Moment of resistance of Flanged sections as per IS 1343 recommendations.",
+    "key": "Summer 2024 Q5(b) · OR",
+    "topics": [
+      "flange"
+    ],
+    "chapters": [
+      4
+    ],
+    "provisional": false,
+    "kind": "Theory",
+    "atlas_topic_ids": [
+      "c4-3"
+    ]
+  },
+  {
+    "session": "Summer 2024",
+    "page": 11,
+    "letter": "C",
+    "marks": 7,
+    "position": "5C OR",
+    "question": "A rectangular beam of span 6m and cross section 130mm wide x 350mm deep is prestressed by a straight cable with an effective prestressing force of 200 kN located at an eccentricity of 30mm. The beam carries a live load of 1.5 kN/m all over its span. Calculate the Magnitude of Prestressing force with an eccentricity of 30mm which can balance the stresses due to dead and live loads at the bottom fibre of the central section of the beam.",
+    "key": "Summer 2024 Q5(c) · OR",
+    "topics": [
+      "stress"
+    ],
+    "chapters": [
+      2
+    ],
+    "provisional": false,
+    "kind": "Numerical",
+    "atlas_topic_ids": [
+      "c2-2"
+    ]
+  }
+]

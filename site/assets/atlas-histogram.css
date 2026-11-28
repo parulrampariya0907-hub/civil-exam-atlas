@@ -1,35 +1,46 @@
-/* Approved compact single-column Histogram; preserve existing site styles. */
-@media(max-width:760px){html .chapter-nav{display:none!important}html.atlas-ready .mobile-chapter.only-js{display:block!important;max-width:100%;margin:0 0 10px}html .mobile-chapter label,html .mobile-chapter select{width:100%;max-width:100%}.top .brand>span:last-child,.top .brand>i{display:none}.top .hist-open{padding:6px 7px}.top-inner{gap:4px}.top nav{flex-wrap:wrap;justify-content:flex-end}.top .tool{white-space:nowrap}}
-@media print{#atlas-histogram,.hist-open{display:none!important}}
+/* Existing audited desktop navigation and mobile dropdown. */
+@media screen{#atlas-creator-credit{position:fixed;right:10px;bottom:8px;display:flex;align-items:center;gap:6px;padding:4px 7px;background:#ffffffe8;color:#3c344d;font:500 10px/1.3 system-ui,sans-serif;white-space:nowrap;z-index:9999;pointer-events:none;border:1px solid #e2dfeb;box-shadow:0 2px 9px #211a3010;border-radius:10px}#atlas-creator-credit img{width:22px;height:22px;border-radius:4px}#atlas-creator-credit strong{color:inherit;font-weight:650}.atlas-reference-warning{display:block;margin-top:6px;color:#76511d!important;font-size:11px;font-weight:700;line-height:1.35}.frequency{min-width:0}.frequency>span:not(.bars){min-width:0;overflow-wrap:anywhere}.frequency small{white-space:normal!important}
+html .chapter-nav{display:grid!important;grid-auto-flow:column!important;grid-auto-columns:minmax(108px,1fr)!important;grid-template-columns:none!important;grid-template-rows:1fr!important;gap:7px!important;min-width:0!important;max-width:100%!important;overflow-x:auto!important;overflow-y:hidden!important;scrollbar-width:thin;padding:2px 2px 5px!important;align-items:stretch!important}html .chapter-nav .chap-tab{display:grid!important;grid-template-columns:minmax(0,1fr) auto!important;grid-template-rows:auto 1fr!important;align-items:start!important;gap:5px!important;min-width:0!important;padding:8px!important;font-size:12px!important;line-height:1.28!important;word-break:normal!important;overflow-wrap:normal!important;white-space:normal!important}html .chapter-nav .chap-tab .tab-icon{grid-column:1;grid-row:1;justify-self:start}html .chapter-nav .chap-tab>span:nth-child(2){grid-column:1/-1;grid-row:2;min-width:0;word-break:normal!important;overflow-wrap:normal!important;white-space:normal!important}html .chapter-nav .chap-tab .ct{display:inline!important;grid-column:2;grid-row:1;align-self:center;margin:0!important}html .result{position:relative;min-height:0!important;padding:0!important;margin:0!important;justify-content:flex-end;gap:0!important;background:transparent!important;box-shadow:none!important;border:0!important;border-radius:0!important;backdrop-filter:none!important}html .result #live{position:absolute!important;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}html .result #reset:not([hidden]){margin:6px 0}html .result #reset[hidden]{display:none!important}}
+@media(max-width:760px){html .chapter-nav{display:none!important}html.atlas-ready .mobile-chapter.only-js{display:block!important;max-width:100%;margin:0 0 10px}html .mobile-chapter label,html .mobile-chapter select{width:100%;max-width:100%}.top .brand>span:last-child,.top .brand>i{display:none}.top .hist-open{padding:6px 7px}.top .hist-open span{display:inline}.top-inner{gap:4px}.top nav{flex-wrap:wrap;justify-content:flex-end}.top .tool{white-space:nowrap}}
+@media print{#atlas-creator-credit,#atlas-histogram,.hist-open{display:none!important}}
 .hist-open svg{width:16px;height:16px;flex:none}.hist-open{cursor:pointer}
-#atlas-histogram{box-sizing:border-box;width:min(920px,calc(100% - 24px));max-width:100%;max-height:94vh;max-height:94dvh;padding:0!important;background:linear-gradient(145deg,rgba(221,236,248,.73),rgba(213,226,243,.68) 60%,rgba(216,234,242,.72))!important;color:#243d57!important;overflow:auto;overscroll-behavior:contain;border-radius:18px!important;border:1px solid #ffffffa6;box-shadow:0 20px 70px #263c5a38,inset 0 1px 0 #fff;backdrop-filter:blur(26px) saturate(1.28);scrollbar-width:thin;font-family:inherit}
+/* Compact, translucent Atlas histogram. */
+#atlas-histogram{box-sizing:border-box;width:min(1240px,calc(100% - 24px));max-width:100%;max-height:94vh;max-height:94dvh;padding:0!important;background:linear-gradient(145deg,#e2eef7eF,#dbe4f3ee 60%,#dce9f0ef)!important;color:#243d57!important;overflow:auto;overscroll-behavior:contain;border-radius:18px!important;border:1px solid #ffffffcc;box-shadow:0 20px 70px #263c5a38,inset 0 1px 0 #fff;backdrop-filter:blur(24px) saturate(1.18);scrollbar-width:thin;font-family:inherit}
 #atlas-histogram *{box-sizing:border-box}
-#atlas-histogram .hist-head{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 15px;background:rgba(228,239,249,.65);border-bottom:1px solid #ffffff80;backdrop-filter:blur(22px) saturate(1.2)}
+#atlas-histogram .hist-head{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 15px;background:#e5eef6ee;border-bottom:1px solid #ffffffc0;backdrop-filter:blur(18px)}
 #atlas-histogram .hist-kicker{font-size:9px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#506b86;margin:0 0 2px}
 #atlas-histogram h2{font-size:clamp(16px,2vw,23px);line-height:1.15;margin:0;color:#233b56;letter-spacing:-.02em}
 #atlas-histogram .hist-sub{font-size:10px;color:#526b81;margin:3px 0 0;line-height:1.3}
-#atlas-histogram .hist-close{flex:none;border:1px solid #ffffff99;border-radius:8px;background:#ffffff45;color:#2d4965;padding:5px 9px;cursor:pointer;font-size:12px;font-weight:700}
-#atlas-histogram .hist-content{padding:8px 13px 12px}
+#atlas-histogram .hist-close{flex:none;border:1px solid #ffffffc9;border-radius:8px;background:#ffffff80;color:#2d4965;padding:5px 9px;cursor:pointer;font-size:12px;font-weight:700}
+#atlas-histogram .hist-content{padding:8px 12px 12px}
 #atlas-histogram .hist-note{font-size:10.5px;line-height:1.35;margin:0 0 5px;color:#3f5870}
-#atlas-histogram .hist-grid{display:block;margin-top:8px;border:1px solid #ffffff99;border-radius:10px;overflow:hidden;background:#ffffff12;box-shadow:inset 0 1px 0 #ffffff60}
-#atlas-histogram .hist-row{border-bottom:1px solid #ffffff65;background:transparent}
+#atlas-histogram .hist-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;align-items:start;margin-top:7px}
+#atlas-histogram .hist-column{display:grid;gap:7px;min-width:0}
+#atlas-histogram .hist-block{margin:0;border:1px solid #fff9;background:linear-gradient(145deg,#ffffff70,#d9e8f45c);border-radius:9px;overflow:hidden;box-shadow:0 2px 9px #294d6910,inset 0 1px 0 #ffffffb0}
+#atlas-histogram .hist-block h3{font-size:12px;line-height:1.25;margin:0;padding:5px 8px;color:#fff;background:linear-gradient(110deg,#344d6e,#476886);display:flex;justify-content:space-between;align-items:center;gap:6px}
+#atlas-histogram .hist-block h3 small{font-size:9px;font-weight:500;color:#e8f2ff}
+#atlas-histogram .hist-row{border-bottom:1px solid #ffffff87}
 #atlas-histogram .hist-row:last-child{border-bottom:0}
-#atlas-histogram summary{display:grid;grid-template-columns:96px minmax(0,1fr) 56px 12px;gap:8px;padding:4px 10px;align-items:center;cursor:pointer;list-style:none;min-height:32px}
+#atlas-histogram summary{display:grid;grid-template-columns:105px minmax(0,1fr) 38px 11px;gap:5px;padding:2px 7px;align-items:center;cursor:pointer;list-style:none;min-height:33px}
 #atlas-histogram summary::-webkit-details-marker{display:none}
 #atlas-histogram summary:focus-visible,#atlas-histogram button:focus-visible{outline:2px solid #356c92;outline-offset:-2px}
 #atlas-histogram summary:hover{background:#ffffff35}
-#atlas-histogram .hist-q{font-size:12px;white-space:nowrap;font-weight:800;line-height:1.2;color:#29445f}
-#atlas-histogram .hist-groups{display:flex;flex-wrap:wrap;gap:5px;min-width:0;align-items:center}
-#atlas-histogram .hist-bin{display:inline-flex;flex-direction:row;align-items:center;justify-content:space-between;gap:9px;min-width:0;padding:4px 7px;border-radius:6px;background:#ffffff32;border:1px solid #ffffff80;font-size:11px;line-height:1.15;white-space:nowrap;box-shadow:inset 0 1px 0 #ffffff45;color:#29465e}
-#atlas-histogram .hist-bin b{font-size:11px;line-height:1.15;white-space:nowrap}
-#atlas-histogram .hist-bin .hist-count{font-size:11px;font-weight:650;font-variant-numeric:tabular-nums;color:inherit;white-space:nowrap}
-#atlas-histogram .hist-bin.high{background:#6ebbc348;border-color:#ffffff90;color:#164756}
-#atlas-histogram .hist-bin.full{background:#45a49e55;border-color:#e6fff2a8;color:#154947}
-#atlas-histogram .hist-bin.na{background:#f0f2f63c;border-color:#ffffff80;color:#515e70}
+#atlas-histogram .hist-q{font-size:11px;font-weight:800;line-height:1.2;color:#29445f}
+#atlas-histogram .hist-groups{display:flex;flex-wrap:wrap;gap:3px;min-width:0;align-items:center}
+#atlas-histogram .hist-bin{display:grid;grid-template-columns:1fr;gap:1px;min-width:53px;padding:2px 5px;border-radius:5px;background:#f7fbff73;border:1px solid #ffffffa6;font-size:9px;line-height:1.1;color:#36546a;box-shadow:inset 0 1px 0 #ffffff90}
+#atlas-histogram .hist-bin b{font-size:10.5px;line-height:1.1;white-space:nowrap}
+#atlas-histogram .hist-bin .track{display:block;height:2px;background:#afc6d64d;border-radius:3px;overflow:hidden}
+#atlas-histogram .hist-bin .track i{display:block;background:#7299b5;height:100%;border-radius:3px}
+#atlas-histogram .hist-bin.high{background:#bbdce3aa;border-color:#e8f7fa; color:#204f5f}
+#atlas-histogram .hist-bin.high .track i{background:#428e9b}
+#atlas-histogram .hist-bin.full{background:#9fcfcdbb;border-color:#e2f7ef;color:#194c4b}
+#atlas-histogram .hist-bin.full .track i{background:#287b78}
+#atlas-histogram .hist-bin.na{background:#f0f2f675;border-color:#fff9;color:#616c7a}
+#atlas-histogram .hist-bin.na .track i{background:#9aa7b4}
 #atlas-histogram .hist-mark{font-size:10px;font-weight:800;text-align:right;line-height:1.15;color:#29445f}
 #atlas-histogram .hist-chevron{font-size:13px;color:#56748d;text-align:right}
 #atlas-histogram details[open] .hist-chevron{transform:rotate(180deg)}
-#atlas-histogram .hist-proof{padding:7px 8px;background:#f8fbff60;border-top:1px solid #ffffff85;font-size:11px;line-height:1.4;color:#304b62}
+#atlas-histogram .hist-proof{padding:7px 8px;background:#f8fbff9e;border-top:1px solid #fff;font-size:11px;line-height:1.4;color:#304b62}
 #atlas-histogram .hist-proof p{margin:0 0 5px}
 #atlas-histogram .hist-proof table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:11px}
 #atlas-histogram .hist-proof th,#atlas-histogram .hist-proof td{text-align:left;border-bottom:1px solid #b8cddd66;padding:4px 3px;overflow-wrap:anywhere;vertical-align:top}
@@ -37,10 +48,33 @@
 #atlas-histogram .hist-proof a{color:#275c83;text-decoration:underline}
 #atlas-histogram .hist-key-title{margin:8px 0 2px;font-size:12px;color:#2d4863}
 #atlas-histogram .hist-index{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px 9px;margin:2px 0 0;font-size:10px;line-height:1.3;color:#3d5770}
-#atlas-histogram .hist-index div{padding:3px 0;border-bottom:1px solid #ffffff65}
+#atlas-histogram .hist-index div{padding:3px 0;border-bottom:1px solid #ffffff9c}
 #atlas-histogram .hist-foot{font-size:9.5px;color:#526b81;margin:6px 0 0;line-height:1.35}
-@media(max-width:1080px){#atlas-histogram .hist-index{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:760px){#atlas-histogram{width:calc(100% - 10px);max-height:96dvh;border-radius:12px!important}#atlas-histogram .hist-head{padding:7px 9px;gap:5px}#atlas-histogram .hist-content{padding:6px 6px 10px}#atlas-histogram summary{grid-template-columns:63px minmax(0,1fr) 43px 9px;gap:3px;padding:4px 5px;min-height:30px}#atlas-histogram .hist-q{font-size:10px}#atlas-histogram .hist-groups{gap:3px}#atlas-histogram .hist-bin{gap:6px;padding:3px 5px}#atlas-histogram .hist-bin b,#atlas-histogram .hist-bin .hist-count{font-size:10px}#atlas-histogram .hist-mark{font-size:9px}#atlas-histogram .hist-index{grid-template-columns:1fr}#atlas-histogram .hist-proof table{font-size:10px}#atlas-histogram .hist-proof th:nth-child(1){width:25%}#atlas-histogram .hist-proof th:nth-child(2){width:19%}#atlas-histogram .hist-proof th:nth-child(3){width:13%}}
+@media(max-width:1080px){#atlas-histogram .hist-grid{grid-template-columns:1fr}#atlas-histogram .hist-index{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){#atlas-histogram{width:calc(100% - 10px);max-height:96dvh;border-radius:12px!important}#atlas-histogram .hist-head{padding:7px 9px;gap:5px}#atlas-histogram .hist-content{padding:6px 6px 10px}#atlas-histogram .hist-grid,#atlas-histogram .hist-column{gap:5px}#atlas-histogram summary{grid-template-columns:83px minmax(0,1fr) 32px 9px;gap:3px;padding:2px 5px;min-height:32px}#atlas-histogram .hist-q{font-size:10px}#atlas-histogram .hist-groups{gap:2px}#atlas-histogram .hist-bin{min-width:49px;padding:2px 4px}#atlas-histogram .hist-bin b{font-size:10px}#atlas-histogram .hist-mark{font-size:9px}#atlas-histogram .hist-index{grid-template-columns:1fr}#atlas-histogram .hist-proof table{font-size:10px}#atlas-histogram .hist-proof th:nth-child(1){width:25%}#atlas-histogram .hist-proof th:nth-child(2){width:19%}#atlas-histogram .hist-proof th:nth-child(3){width:13%}}
+
+/* Linear histogram: one continuous question list, glass chips, inline counts. */
+#atlas-histogram{width:min(920px,calc(100% - 24px));background:linear-gradient(145deg,rgba(221,236,248,.73),rgba(213,226,243,.68) 60%,rgba(216,234,242,.72))!important;backdrop-filter:blur(26px) saturate(1.28);border-color:#ffffffa6}
+#atlas-histogram .hist-head{background:rgba(228,239,249,.65);border-bottom-color:#ffffff80;backdrop-filter:blur(22px) saturate(1.2)}
+#atlas-histogram .hist-close{background:#ffffff45;border-color:#ffffff99}
+#atlas-histogram .hist-content{padding:8px 13px 12px}
+#atlas-histogram .hist-grid{display:block;margin-top:8px;border:1px solid #ffffff99;border-radius:10px;overflow:hidden;background:#ffffff12;box-shadow:inset 0 1px 0 #ffffff60}
+#atlas-histogram .hist-row{border-bottom:1px solid #ffffff65;background:transparent}
+#atlas-histogram .hist-row:last-child{border-bottom:0}
+#atlas-histogram summary{grid-template-columns:96px minmax(0,1fr) 56px 12px;gap:8px;padding:4px 10px;min-height:32px}
+#atlas-histogram .hist-q{font-size:12px;white-space:nowrap;font-weight:800}
+#atlas-histogram .hist-groups{gap:5px}
+#atlas-histogram .hist-bin{display:inline-flex;flex-direction:row;align-items:center;justify-content:space-between;gap:9px;min-width:0;padding:4px 7px;border-radius:6px;background:#ffffff32;border:1px solid #ffffff80;font-size:11px;line-height:1.15;white-space:nowrap;box-shadow:inset 0 1px 0 #ffffff45;color:#29465e}
+#atlas-histogram .hist-bin b{font-size:11px;line-height:1.15;white-space:nowrap}
+#atlas-histogram .hist-bin .hist-count{font-size:11px;font-weight:650;font-variant-numeric:tabular-nums;color:inherit;white-space:nowrap}
+#atlas-histogram .hist-bin.high{background:#6ebbc348;border-color:#ffffff90;color:#164756}
+#atlas-histogram .hist-bin.full{background:#45a49e55;border-color:#e6fff2a8;color:#154947}
+#atlas-histogram .hist-bin.na{background:#f0f2f63c;border-color:#ffffff80;color:#515e70}
+#atlas-histogram .hist-proof{background:#f8fbff60;border-top-color:#ffffff85}
+#atlas-histogram .hist-index div{border-bottom-color:#ffffff65}
+@media(max-width:760px){#atlas-histogram{width:calc(100% - 10px)}#atlas-histogram .hist-content{padding:6px 6px 10px}#atlas-histogram summary{grid-template-columns:63px minmax(0,1fr) 43px 9px;gap:3px;padding:4px 5px;min-height:30px}#atlas-histogram .hist-q{font-size:10px}#atlas-histogram .hist-groups{gap:3px}#atlas-histogram .hist-bin{gap:6px;padding:3px 5px}#atlas-histogram .hist-bin b,#atlas-histogram .hist-bin .hist-count{font-size:10px}#atlas-histogram .hist-index{grid-template-columns:1fr}}
+
+/* Alternating question groups, including all OR rows. Preserve frequency chip colours. */
 #atlas-histogram .hist-row:is([data-question^="Question 1"],[data-question^="Question 3"],[data-question^="Question 5"]){background:rgba(255,255,255,.47)}
 #atlas-histogram .hist-row:is([data-question^="Question 2"],[data-question^="Question 4"]){background:rgba(133,174,211,.24)}
 #atlas-histogram .hist-row:is([data-question="Question 2A"],[data-question="Question 3A"],[data-question="Question 4A"],[data-question="Question 5A"]){border-top:1px solid rgba(92,132,165,.22)}

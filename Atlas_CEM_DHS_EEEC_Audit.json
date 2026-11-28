@@ -1,0 +1,234 @@
+{
+  "scope": [
+    "cem",
+    "dhs",
+    "eeec"
+  ],
+  "protected": [
+    "dss",
+    "dpcs",
+    "phe"
+  ],
+  "summary": {
+    "Fixed": 10,
+    "Unverified": 5
+  },
+  "issues": [
+    [
+      "A/B Structure",
+      "CEM: 5 official units / 7 book chapters; DHS gravity and earth module order differs; EEEC: 7 units / 9 chapters.",
+      "Explicit official unit crosswalk added; correct chapter order retained.",
+      "Fixed"
+    ],
+    [
+      "C PYQ",
+      "Potential duplicate counting across topic cards.",
+      "365 unique paper positions, marks and starting PDF pages verified; question ledger exported. No duplicates within cards.",
+      "Fixed"
+    ],
+    [
+      "D Frequency display",
+      "Related-only or combined display could contradict direct-only data and priority.",
+      "Direct-only badge and bars corrected; related count shown separately; existing correct data-n retained.",
+      "Fixed"
+    ],
+    [
+      "D Histogram metadata",
+      "Absent question positions could still be marked as five asked.",
+      "Corrected 14 data-total attributes and 0 paper metadata cells from source records.",
+      "Fixed"
+    ],
+    [
+      "D Frequency table",
+      "No same-format per-topic frequency audit table.",
+      "Added 207 topic rows and horizontal frequency bars; CSV exported.",
+      "Fixed"
+    ],
+    [
+      "E IMP",
+      "Priority rules required independent recount.",
+      "All 207 IMP/Most IMP flags agree with existing direct-frequency / marks rule; no flag changed.",
+      "Fixed"
+    ],
+    [
+      "F Video mapping",
+      "Topic video labels not directly clickable.",
+      "Existing video topic labels linked to original subject video; no links invented.",
+      "Fixed"
+    ],
+    [
+      "G CEM",
+      "Tunnel Boring Machines marked unverified.",
+      "Verified §7.12, PDF p. 215, printed p. 416; updated references.",
+      "Fixed"
+    ],
+    [
+      "G EEEC",
+      "Good estimate could be conflated with good estimator.",
+      "Explicitly labelled §2.4 as related rather than an exact reference.",
+      "Fixed"
+    ],
+    [
+      "G Book metadata",
+      "DHS and EEEC title-page metadata missing from source notes.",
+      "Added verified title-page author, publisher, edition and PDF lengths. CEM title page not supplied.",
+      "Fixed"
+    ],
+    [
+      "C Exact wording",
+      "Normalized extraction compared with original papers; cross-page line breaks handled.",
+      "All text retained; exceptions if any logged in report. Figures/tables not fully independently transcribed.",
+      "Unverified"
+    ],
+    [
+      "B Syllabus",
+      "Individual subtopic coverage and tagging not fully verified.",
+      "Mapped chapters to all official units; explicitly listed uncertain subtopic coverage.",
+      "Unverified"
+    ],
+    [
+      "F Video verification",
+      "YouTube playback could not be fetched.",
+      "Marked all three existing URLs UNVERIFIED; original names and source labels preserved.",
+      "Unverified"
+    ],
+    [
+      "G Scans and references",
+      "Complete printed-page continuity and all individual reading windows not independently verified.",
+      "PDF bounds checked; selected pages reviewed; known pending exact references preserved (CEM cube testing, economic life and dewatering; DHS cofferdam and construction sequence; EEEC good estimate).",
+      "Unverified"
+    ],
+    [
+      "G CEM title page",
+      "Scan begins at Chapter 1, title-page metadata unavailable.",
+      "Not required for study; no author or edition invented.",
+      "Unverified"
+    ]
+  ],
+  "stats": {
+    "cem": {
+      "paper_parts": 125,
+      "by_session": {
+        "Summer 2026": 25,
+        "Winter 2025": 25,
+        "Summer 2025": 25,
+        "Winter 2024": 25,
+        "Summer 2024": 25
+      },
+      "marks_including_or": 595,
+      "topic_cards": 79,
+      "most_imp": 22,
+      "wording_exceptions": [],
+      "histogram_metadata_fixes": [],
+      "histogram_cell_fixes": [],
+      "flags": {
+        "book_reference_fixes": 1,
+        "video_links": 69,
+        "frequency_display_fixes": 19
+      },
+      "book_page_bounds_checked": 79
+    },
+    "dhs": {
+      "paper_parts": 115,
+      "by_session": {
+        "Summer 2026": 25,
+        "Winter 2025": 25,
+        "Summer 2025": 25,
+        "Winter 2024": 15,
+        "Summer 2024": 25
+      },
+      "marks_including_or": 595,
+      "topic_cards": 52,
+      "most_imp": 24,
+      "wording_exceptions": [],
+      "histogram_metadata_fixes": [
+        [
+          "1C",
+          4
+        ],
+        [
+          "2C",
+          4
+        ],
+        [
+          "2B OR",
+          1
+        ],
+        [
+          "2C OR",
+          4
+        ],
+        [
+          "3B",
+          4
+        ],
+        [
+          "3C",
+          4
+        ],
+        [
+          "3B OR",
+          4
+        ],
+        [
+          "3C OR",
+          4
+        ],
+        [
+          "4C",
+          4
+        ],
+        [
+          "4C OR",
+          4
+        ],
+        [
+          "5C",
+          4
+        ],
+        [
+          "5C OR",
+          4
+        ]
+      ],
+      "histogram_cell_fixes": [],
+      "flags": {
+        "frequency_display_fixes": 16,
+        "video_links": 42
+      },
+      "book_page_bounds_checked": 52
+    },
+    "eeec": {
+      "paper_parts": 125,
+      "by_session": {
+        "Summer 2026": 25,
+        "Winter 2025": 25,
+        "Summer 2025": 25,
+        "Winter 2024": 25,
+        "Summer 2024": 25
+      },
+      "marks_including_or": 595,
+      "topic_cards": 76,
+      "most_imp": 28,
+      "wording_exceptions": [],
+      "histogram_metadata_fixes": [
+        [
+          "2B OR",
+          1
+        ],
+        [
+          "2C OR",
+          4
+        ]
+      ],
+      "histogram_cell_fixes": [],
+      "flags": {
+        "clarified_book_refs": 1,
+        "video_links": 72,
+        "frequency_display_fixes": 6
+      },
+      "book_page_bounds_checked": 76
+    }
+  },
+  "limitations": "Recount validated all question positions, marks and starting PDF page; normalized wording check; semantic mappings and scanned book references not completely verified. No deployment."
+}

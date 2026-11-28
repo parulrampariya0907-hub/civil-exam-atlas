@@ -1,0 +1,18 @@
+{
+  "dss": {
+    "topics": 48,
+    "questions": 126,
+    "highlight_spans": 651
+  },
+  "dpcs": {
+    "topics": 62,
+    "questions": 135,
+    "highlight_spans": 857
+  },
+  "other_four_subjects_unchanged": true,
+  "dss_new_reference_cards": 22,
+  "book_pdf_pages": 243,
+  "printed_end_page": 472,
+  "book_limit": "Dedicated circular derivation and some standalone comparison sections remain unverified; related references identified. No full independent line-by-line audit of all prior refs.",
+  "deployment": "not deployed"
+}

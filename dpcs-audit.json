@@ -1,0 +1,60 @@
+{
+  "subject": "3170624",
+  "video_transcript": "user-supplied transcript 0:00–4:26, six screenshots exact topic names",
+  "independent_audio_verified": false,
+  "video_entries": 47,
+  "supplementary_entries": 15,
+  "all_topic_cards": 62,
+  "chapter_video_counts": {
+    "1": 10,
+    "2": 6,
+    "3": 10,
+    "4": 12,
+    "5": 6,
+    "6": 3
+  },
+  "chapter_total_counts": {
+    "1": 12,
+    "2": 7,
+    "3": 12,
+    "4": 16,
+    "5": 11,
+    "6": 4
+  },
+  "most_imp": 26,
+  "unique_paper_subquestions": 125,
+  "per_session": {
+    "Summer 2026": 25,
+    "Winter 2025": 25,
+    "Summer 2025": 25,
+    "Winter 2024": 25,
+    "Summer 2024": 25
+  },
+  "question_card_mappings": 135,
+  "histogram_rows": 25,
+  "histogram_unchanged": true,
+  "original_four_subjects_unchanged": true,
+  "book_reference_check": "selected example locations verified visually; other book windows based on scan/index, full independent page audit incomplete",
+  "provisional_questions": [
+    "Winter 2024 Q4(b) OR",
+    "Winter 2024 Q5(b) OR"
+  ],
+  "book_scan_issues": [
+    "Duplicate pp.82–83 in PDF 43 and 44",
+    "Printed p.100 not visible in physical scan",
+    "Ch 5 Ex 3 input/solution V discrepancy",
+    "Printed p.166 duplicated in PDF 86 and 87; p.165 is on PDF 85"
+  ],
+  "deployment": "not deployed; preview source does not contain live AdSense snippet, merge DPCS into current live branch rather than overwrite live site",
+  "paper_text_verification": "123/125 normalized exact text matches against extracted merged PDF after removing marks. Summer 2024 Q1(b) and Q1(c) confirmed against original PDF layout/extracted text (overlapping line in original).",
+  "marks_check": "All card marks match existing paper map and standard Q(a)=3, Q(b)=4, Q(c)=7; 25 records per session. No marks changed.",
+  "browser_tests": {
+    "desktop_and_mobile_rendered": true,
+    "chapter_filter": true,
+    "marks_filter": true,
+    "first_two_questions_expand_collapse": true,
+    "histogram_open_close": true,
+    "uncaught_js_errors": 0,
+    "method": "rendered HTML directly in Chromium; local URL navigation was blocked by environment"
+  }
+}
